@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:document-statistic meta:table-count="4" meta:image-count="1" meta:object-count="0" meta:page-count="6" meta:paragraph-count="196" meta:word-count="2024" meta:character-count="13698" meta:non-whitespace-character-count="11685"/><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><dc:date>2021-09-05T11:07:18.106000000</dc:date><meta:editing-duration>PT17M13S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:document-statistic meta:table-count="4" meta:image-count="1" meta:object-count="0" meta:page-count="10" meta:paragraph-count="196" meta:word-count="2025" meta:character-count="13707" meta:non-whitespace-character-count="11694"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">48</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">49056</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">24026</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">35040</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17163</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">25329</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3041</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25120</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">8735</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">49054</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">24024</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">48</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">35038</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17209</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">140</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
     </config:config-item-map-entry>
@@ -85,7 +85,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1994028</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2079369</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
@@ -152,13 +152,13 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Calibri1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Calibri1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -608,28 +608,36 @@
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:line-height="150%" fo:break-before="auto" fo:break-after="auto"/>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:line-height="150%" fo:text-align="justify" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
+   <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:line-height="150%" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="justify" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="-0.1252in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto">
     <style:tab-stops>
      <style:tab-stop style:position="3in" style:type="center"/>
@@ -637,16 +645,32 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:font-weight="bold" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="1in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto">
     <style:tab-stops>
      <style:tab-stop style:position="3in" style:type="center"/>
@@ -655,129 +679,111 @@
    </style:paragraph-properties>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Cambria" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Cambria1" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Cambria1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:background-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:background-color="#ffffff"/>
    <style:text-properties fo:color="#222222" loext:opacity="100%"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties fo:color="#444444" loext:opacity="100%" style:font-name="Arial" fo:font-size="10pt" style:font-name-asian="Arial1" style:font-size-asian="10pt" style:font-name-complex="Arial1" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
-  </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Calibri" fo:font-weight="bold" style:font-name-asian="Calibri1" style:font-weight-asian="bold" style:font-name-complex="Calibri1"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Calibri" style:font-name-asian="Calibri1" style:font-name-complex="Calibri1"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Calibri" style:font-name-asian="Calibri1" style:font-name-complex="Calibri1"/>
   </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#a0a0a0"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:background-color="#a0a0a0"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#353535" loext:opacity="100%"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
+   <style:text-properties fo:color="#444444" loext:opacity="100%" style:font-name="Arial" fo:font-size="10pt" style:font-name-asian="Arial1" style:font-size-asian="10pt" style:font-name-complex="Arial1" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
-   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
-   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:font-weight="bold" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Calibri" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
-   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="-0.25in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto"/>
    <style:text-properties style:font-name="Calibri" fo:font-size="11pt" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:font-name-complex="Calibri1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:break-before="auto" fo:break-after="auto"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:keep-with-next="auto"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="-0.25in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
   </style:style>
   <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#353535" loext:opacity="100%"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.028in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:color="#ffffff" loext:opacity="100%" fo:font-weight="bold" style:font-weight-asian="bold"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.028in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:color="#353535" loext:opacity="100%"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="end" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="-0.25in" style:auto-text-indent="false" fo:break-before="auto" fo:break-after="auto" fo:padding="0in" fo:border="none" fo:keep-with-next="auto"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#a0a0a0"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
@@ -816,6 +822,9 @@
   </style:style>
   <style:style style:name="T12" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="001fba89"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#ffffff" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -1377,58 +1386,58 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P44">CS GY 6813 Information Security &amp; Privacy </text:p>
-   <text:p text:style-name="P16"><text:span text:style-name="T2">Professors</text:span><text:span text:style-name="T5">: </text:span></text:p>
-   <text:p text:style-name="P16">Paola Garcia, MS.</text:p>
-   <text:p text:style-name="P16">Brandon Sloane, MS.</text:p>
-   <text:p text:style-name="P41">Aspen Olmsted, Ph. D.</text:p>
-   <text:p text:style-name="P42"><text:s/></text:p>
-   <text:p text:style-name="P42">Teaching Assistants:</text:p>
-   <text:p text:style-name="P16">Steven Angulo</text:p>
-   <text:p text:style-name="P16">Kiran Chaudhry</text:p>
-   <text:p text:style-name="P16">Alon Hillel-Tuch</text:p>
-   <text:p text:style-name="P22">Roman Garber</text:p>
-   <text:p text:style-name="P22">Julio Nunez</text:p>
-   <text:p text:style-name="P42"><text:s/></text:p>
-   <text:p text:style-name="P16"/>
-   <text:p text:style-name="P16"><draw:rect text:anchor-type="as-char" style:rel-width="100%" draw:z-index="10" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P53" svg:width="0.0012in" svg:height="0.0213in">
+   <text:p text:style-name="P53">CS GY 6813 Information Security &amp; Privacy </text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T2">Professors</text:span><text:span text:style-name="T5">: </text:span></text:p>
+   <text:p text:style-name="P18">Paola Garcia, MS.</text:p>
+   <text:p text:style-name="P18">Brandon Sloane, MS.</text:p>
+   <text:p text:style-name="P21">Aspen Olmsted, Ph. D.</text:p>
+   <text:p text:style-name="P22"><text:s/></text:p>
+   <text:p text:style-name="P22">Teaching Assistants:</text:p>
+   <text:p text:style-name="P18">Steven Angulo</text:p>
+   <text:p text:style-name="P18">Kiran Chaudhry</text:p>
+   <text:p text:style-name="P18">Alon Hillel-Tuch</text:p>
+   <text:p text:style-name="P32">Roman Garber</text:p>
+   <text:p text:style-name="P32">Julio Nunez</text:p>
+   <text:p text:style-name="P22"><text:s/></text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="https://docs.google.com/document/d/1lYH0ODZws0g_CNpK1TEGZOmXBg7vvomHTokQODWSMcc/edit" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">(GDrive)</text:span></text:a><draw:rect text:anchor-type="as-char" style:rel-width="100%" draw:z-index="10" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P55" svg:width="0.0012in" svg:height="0.0213in">
      <text:p/>
     </draw:rect></text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P9"><text:bookmark text:name="_58gp6m3ukj6i"/>COURSE OVERVIEW </text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P11"><text:bookmark text:name="_58gp6m3ukj6i"/>COURSE OVERVIEW </text:p>
    <text:p text:style-name="P1">This class provides a firm grounding in computer security concepts and basics. <text:s/>Students learn about threat modeling, principles of secure design, security policies, access control technologies, and similar topics.</text:p>
    <text:p text:style-name="P1">The course is a lecture-oriented class. </text:p>
-   <text:p text:style-name="P29"/>
-   <text:p text:style-name="P11"><text:bookmark text:name="_czvhj05kayob"/>LEARNING OBJECTIVES </text:p>
-   <text:p text:style-name="P43">By the end of this course students should be able to:</text:p>
-   <text:list xml:id="list1630838768" text:style-name="WWNum1">
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P13"><text:bookmark text:name="_czvhj05kayob"/>LEARNING OBJECTIVES </text:p>
+   <text:p text:style-name="P23">By the end of this course students should be able to:</text:p>
+   <text:list xml:id="list2947224992" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P45">Apply a security mindset while remaining ethical.</text:p>
+     <text:p text:style-name="P54">Apply a security mindset while remaining ethical.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Implement security design principles.</text:p>
+     <text:p text:style-name="P54">Implement security design principles.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Explain the core concepts of access control.</text:p>
+     <text:p text:style-name="P54">Explain the core concepts of access control.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Implement reference monitors.</text:p>
+     <text:p text:style-name="P54">Implement reference monitors.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Apply security policies that are commonly used in modern operating systems.</text:p>
+     <text:p text:style-name="P54">Apply security policies that are commonly used in modern operating systems.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Analyze the security of a basic secure system.</text:p>
+     <text:p text:style-name="P54">Analyze the security of a basic secure system.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P45">Explain virtualization and the impact on security and efficiency.</text:p>
+     <text:p text:style-name="P54">Explain virtualization and the impact on security and efficiency.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P10"><text:bookmark text:name="_bapqma4z1flu"/></text:p>
-   <text:p text:style-name="P10"><text:bookmark text:name="_w6cuz3kg7nb"/>COURSE STRUCTURE <text:s text:c="113"/></text:p>
+   <text:p text:style-name="P12"><text:bookmark text:name="_bapqma4z1flu"/></text:p>
+   <text:p text:style-name="P12"><text:bookmark text:name="_w6cuz3kg7nb"/>COURSE STRUCTURE <text:s text:c="113"/></text:p>
    <text:p text:style-name="P1"><text:span text:style-name="T6">This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using NYU Classes located at </text:span><text:a xlink:type="simple" xlink:href="https://brightspace.nyu.edu/d2l/home" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">https://brightspace.nyu.edu/d2l/home</text:span></text:a><text:span text:style-name="T6">. </text:span></text:p>
-   <text:p text:style-name="P8"><text:bookmark text:name="_o777eg28crog"/></text:p>
-   <text:p text:style-name="P8"><text:bookmark text:name="_ghqtfve4w8a6"/>LEARNING TIME RUBRIC</text:p>
+   <text:p text:style-name="P10"><text:bookmark text:name="_o777eg28crog"/></text:p>
+   <text:p text:style-name="P10"><text:bookmark text:name="_ghqtfve4w8a6"/>LEARNING TIME RUBRIC</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -1436,105 +1445,106 @@
     <table:table-column table:style-name="Table1.D"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P34">Learning Time Element</text:p>
+      <text:p text:style-name="P28">Learning Time Element</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P34">Asynchronous* / Synchronous**</text:p>
+      <text:p text:style-name="P28">Asynchronous* / Synchronous**</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P34">Time on Task for Students (weekly)</text:p>
+      <text:p text:style-name="P28">Time on Task for Students (weekly)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P34">Notes</text:p>
+      <text:p text:style-name="P28">Notes</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <text:soft-page-break/>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">Lecture (Active Module)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">Asynchronous</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">2 - 3 <text:s/>hours</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P30">Video and interactive text format. Expect quizzes throughout the module.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Lecture (Active <text:soft-page-break/>Module)</text:p>
+      <text:p text:style-name="P29">Discussions </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Asynchronous</text:p>
+      <text:p text:style-name="P29">Asynchronous</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">2 - 3 <text:s/>hours</text:p>
+      <text:p text:style-name="P29">0.5 hours</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Video and interactive text format. <text:soft-page-break/>Expect quizzes throughout the module.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Discussions </text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Asynchronous</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">0.5 hours</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Students discuss the instructor’s questions for each lesson. </text:p>
+      <text:p text:style-name="P30">Students discuss the instructor’s questions for each lesson. </text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Reading &amp; Research</text:p>
+      <text:p text:style-name="P29">Reading &amp; Research</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Asynchronous</text:p>
+      <text:p text:style-name="P29">Asynchronous</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">2.5 hour</text:p>
+      <text:p text:style-name="P29">2.5 hour</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Students complete recommended readings ( online journal articles and tutorials) and work on their related research presentation.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Online Labs</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Asynchronous</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">1.0 hour</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Students independently work on Online cybersecurity labs. <text:s/>Students will submit a screenshot of their completion.</text:p>
+      <text:p text:style-name="P30">Students complete recommended readings ( online journal articles and tutorials) and work on their related research presentation.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Programming Labs</text:p>
+      <text:p text:style-name="P29">Online Labs</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">Asynchronous</text:p>
+      <text:p text:style-name="P29">Asynchronous</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P35">1.0 hour</text:p>
+      <text:p text:style-name="P29">1.0 hour</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Students independently work in programming labs. <text:s/>Students will submit their code to Gradescope.</text:p>
+      <text:p text:style-name="P30">Students independently work on Online cybersecurity labs. <text:s/>Students will submit a screenshot of their completion.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">Programming Labs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">Asynchronous</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P29">1.0 hour</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P30">Students independently work in programming labs. <text:s/>Students will submit their code to Gradescope.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P37"><text:s/></text:p>
+   <text:p text:style-name="P8"><text:s/></text:p>
    <text:p text:style-name="P46">*Asynchronous learning is defined as any non-real time student learning, such as recorded lecture, podcast, interactive module, articles, websites, etc. This also includes any student-to-student or faculty-to-student communication that may happen with an asynchronous tool, such as discussion board, chatroom, e-mail, text, etc.</text:p>
    <text:p text:style-name="P46">**Synchronous learning is defined as any real-time student-to-student and/or faculty-to-student learning, such as a live webinar session or other video/audio communication service.</text:p>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P11"><text:bookmark text:name="_e7m51h1zq5qi"/>COURSE COMMUNICATION </text:p>
-   <text:p text:style-name="P8"><text:bookmark text:name="_iksdfchta6i3"/>WEEKLY VIRTUAL OFFICE HOURS </text:p>
-   <text:p text:style-name="P17">The Teaching Assistant (TA) will be available for weekly virtual office hours by appointment. To schedule an appointment with your TA, or to ask any questions about the course content, please email them.</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P38">TAs email: </text:p>
-   <text:p text:style-name="P20"><text:span text:style-name="T11">Roman Garber, </text:span><text:a xlink:type="simple" xlink:href="mailto:rg3611@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">rg3611@nyu.edu</text:span></text:a><text:span text:style-name="T11"><text:line-break/>Kiran Chaudhry, </text:span><text:a xlink:type="simple" xlink:href="mailto:kc4546@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">kc4546@nyu.edu</text:span></text:a><text:span text:style-name="T11"><text:line-break/>Alon Hillel-Tuch, </text:span><text:a xlink:type="simple" xlink:href="mailto:ah5647@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">ah5647@nyu.edu</text:span></text:a><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T11">Steven Angulo, </text:span><text:a xlink:type="simple" xlink:href="mailto:sa6246@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">sa6246@nyu.edu</text:span></text:a><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T11">Julio Nunez, </text:span><text:a xlink:type="simple" xlink:href="mailto:jcn327@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">jcn327@nyu.edu</text:span></text:a></text:p>
-   <text:p text:style-name="P21"/>
-   <text:p text:style-name="P10"><text:bookmark text:name="_yor42oe93vdx"/><text:soft-page-break/>RECOMMENDED READINGS<text:span text:style-name="T7"> are </text:span><text:span text:style-name="T8">online journal articles </text:span><text:span text:style-name="T7">provided in each lecture</text:span></text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T3">You can access NYU’s central library here: </text:span><text:a xlink:type="simple" xlink:href="http://library.nyu.edu/" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">http://library.nyu.edu/</text:span></text:a></text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T3">You can access NYU Tandon’s Bern Dibner Library here: </text:span><text:a xlink:type="simple" xlink:href="http://library.poly.edu/" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">http://library.poly.edu/</text:span></text:a></text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P10"><text:bookmark text:name="_1bcmws4tdl27"/>COURSE OUTLINE</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P13"><text:bookmark text:name="_e7m51h1zq5qi"/>COURSE COMMUNICATION </text:p>
+   <text:p text:style-name="P10"><text:bookmark text:name="_iksdfchta6i3"/>WEEKLY VIRTUAL OFFICE HOURS </text:p>
+   <text:p text:style-name="P19">The Teaching Assistant (TA) will be available for weekly virtual office hours by appointment. To schedule an appointment with your TA, or to ask any questions about the course content, please email them.</text:p>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P9">TAs email: </text:p>
+   <text:p text:style-name="P26"><text:span text:style-name="T11">Roman Garber, </text:span><text:a xlink:type="simple" xlink:href="mailto:rg3611@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">rg3611@nyu.edu</text:span></text:a><text:span text:style-name="T11"><text:line-break/>Kiran Chaudhry, </text:span><text:a xlink:type="simple" xlink:href="mailto:kc4546@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">kc4546@nyu.edu</text:span></text:a><text:span text:style-name="T11"><text:line-break/>Alon Hillel-Tuch, </text:span><text:a xlink:type="simple" xlink:href="mailto:ah5647@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">ah5647@nyu.edu</text:span></text:a><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T11">Steven Angulo, </text:span><text:a xlink:type="simple" xlink:href="mailto:sa6246@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">sa6246@nyu.edu</text:span></text:a><text:span text:style-name="T9"><text:line-break/></text:span><text:span text:style-name="T11">Julio Nunez, </text:span><text:a xlink:type="simple" xlink:href="mailto:jcn327@nyu.edu" text:style-name="ListLabel_20_10" text:visited-style-name="ListLabel_20_10"><text:span text:style-name="T10">jcn327@nyu.edu</text:span></text:a></text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P12"><text:bookmark text:name="_yor42oe93vdx"/><text:soft-page-break/>RECOMMENDED READINGS<text:span text:style-name="T7"> are </text:span><text:span text:style-name="T8">online journal articles </text:span><text:span text:style-name="T7">provided in each lecture</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T3">You can access NYU’s central library here: </text:span><text:a xlink:type="simple" xlink:href="http://library.nyu.edu/" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">http://library.nyu.edu/</text:span></text:a></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T3">You can access NYU Tandon’s Bern Dibner Library here: </text:span><text:a xlink:type="simple" xlink:href="http://library.poly.edu/" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">http://library.poly.edu/</text:span></text:a></text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P12"><text:bookmark text:name="_1bcmws4tdl27"/>COURSE OUTLINE</text:p>
    <text:p text:style-name="P6">Lesson 1: Introduction to the Course</text:p>
    <text:p text:style-name="P6">Lesson 2: Security Design Principles</text:p>
    <text:p text:style-name="P6">Lesson 3: Threat Modeling</text:p>
@@ -1551,28 +1561,28 @@
    <text:p text:style-name="P1">Quizzes allow you to check your understanding of the content presented in the lesson. You may complete the assessment up to two times before the due date. <text:s text:c="2"/>Students have 3 hours to complete each quiz. The average <text:s/>score will be used in the gradebook. <text:s/>If students do not submit a quiz they can still submit up until the last day of classes but only one submission is allowed.</text:p>
    <text:p text:style-name="P6">Labs</text:p>
    <text:p text:style-name="P1">Several technical labs will be assigned to give the student hands-on applied experience with the topics covered in the lecture. <text:s/>There will be two types of labs; Online and Programming. The online labs will be completed on an online system called Immersive Labs. Students will upload a screenshot of their completion to the NYU Classes to receive credit for the lab. <text:s/>The programming labs will use a secure sandbox environment for Python <text:s/>called RePy. <text:s/>Programming Labs will be submitted to Gradescope.</text:p>
-   <text:p text:style-name="P47">Discussions</text:p>
+   <text:p text:style-name="P41">Discussions</text:p>
    <text:p text:style-name="P1">NYU Classes will have threaded discussion topics where you can interact on lectures, assignments, labs or the related research project. The course contains 4 graded discussion boards that are to be graded using the standard grading rubric (provided). The last discussion forum is where students will upload their project and students will provide peer feedback. A minimum of 2 peer responses is expected for each initial post.</text:p>
    <text:p text:style-name="P6"><text:soft-page-break/>Research</text:p>
    <text:p text:style-name="P1">Each student will pick a specific, applied technical problem related to the material in the course. <text:s/>The student will then hypothesize a solution to the problem. <text:s/>Using tools such as google scholar the student will research related articles and will create a recording of their presentation of these materials to other students. <text:s/>This process is not the complete scientific process as the student will just be gathering preliminary evidence and disseminating their results. <text:s/>The students will discuss how they would gather evidence and expected results. <text:s/>There are many scaffolding assignments with hard deadlines and students will be assigned peer reviews after each assignment. <text:s/>The scaffolding assignments and reviews are part of your research grade. <text:s/>Students should join the class named CF Fall ISP on peergrade.io using code 6HWYJK.</text:p>
-   <text:p text:style-name="P33"><text:bookmark text:name="_th8qo0e4fmhc"/>GRADING</text:p>
-   <text:p text:style-name="P25">Quizzes: 35% <text:line-break/>Discussions: 5% <text:s/><text:line-break/>Online Labs: 20% </text:p>
-   <text:p text:style-name="P25">Programming Labs: 20%<text:line-break/>Hypothesis &amp; Related Research Presentation: 20%</text:p>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P10"><text:bookmark text:name="_w294xewyv6qj"/><text:span text:style-name="T1">PROGRAM </text:span><text:s/>POLICIES</text:p>
-   <text:p text:style-name="P8"><text:bookmark text:name="_qw3hfki896jp"/>MOSES CENTER STATEMENT OF DISABILITY</text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T3">If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at </text:span><text:span text:style-name="T4">212-998-4980</text:span><text:span text:style-name="T3"> or </text:span><text:a xlink:type="simple" xlink:href="mailto:mosescsd@nyu.edu" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">mosescsd@nyu.edu</text:span></text:a><text:span text:style-name="T3">.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at </text:span><text:a xlink:type="simple" xlink:href="http://www.nyu.edu/csd" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">www.nyu.edu/csd</text:span></text:a><text:span text:style-name="T3">. The Moses Center is located at 726 Broadway on the 2nd floor.</text:span></text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P12"><text:bookmark text:name="_7k2ebbik2s5w"/>SUGGESTED STUDENT SCHEDULE</text:p>
+   <text:p text:style-name="P42"><text:bookmark text:name="_th8qo0e4fmhc"/>GRADING</text:p>
+   <text:p text:style-name="P38">Quizzes: 35% <text:line-break/>Discussions: 5% <text:s/><text:line-break/>Online Labs: 20% </text:p>
+   <text:p text:style-name="P38">Programming Labs: 20%<text:line-break/>Hypothesis &amp; Related Research Presentation: 20%</text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P12"><text:bookmark text:name="_w294xewyv6qj"/><text:span text:style-name="T1">PROGRAM </text:span><text:s/>POLICIES</text:p>
+   <text:p text:style-name="P10"><text:bookmark text:name="_qw3hfki896jp"/>MOSES CENTER STATEMENT OF DISABILITY</text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T3">If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at </text:span><text:span text:style-name="T4">212-998-4980</text:span><text:span text:style-name="T3"> or </text:span><text:a xlink:type="simple" xlink:href="mailto:mosescsd@nyu.edu" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">mosescsd@nyu.edu</text:span></text:a><text:span text:style-name="T3">.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at </text:span><text:a xlink:type="simple" xlink:href="http://www.nyu.edu/csd" text:style-name="ListLabel_20_11" text:visited-style-name="ListLabel_20_11"><text:span text:style-name="T4">www.nyu.edu/csd</text:span></text:a><text:span text:style-name="T3">. The Moses Center is located at 726 Broadway on the 2nd floor.</text:span></text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P14"><text:bookmark text:name="_7k2ebbik2s5w"/>SUGGESTED STUDENT SCHEDULE</text:p>
    <text:p text:style-name="P1">Most required assessments and activities in this course are asynchronous so students can complete them at their own pace as long as they are completed by December 13th. <text:s/>The following table represents a schedule dividing all work more or less equally across the semester. <text:s/></text:p>
-   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P40"/>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
     <table:table-column table:style-name="Table2.C"/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson</text:p>
+      <text:p text:style-name="P33">Lesson</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">Activities </text:p>
@@ -1583,12 +1593,12 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 1: </text:p>
-      <text:p text:style-name="P23"/>
+      <text:p text:style-name="P33">Lesson 1: </text:p>
+      <text:p text:style-name="P33"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Introduction to the Course<text:line-break/>Read: Lesson 1 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 1<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Aspen 9/5/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Introduction to the Course<text:line-break/>Read: Lesson 1 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 1<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Aspen 9/5/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">9/12/2021</text:p>
@@ -1597,11 +1607,11 @@
     <text:soft-page-break/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 2 </text:p>
+      <text:p text:style-name="P33">Lesson 2 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Security Design Principles<text:line-break/>Read: Lesson 2 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 2<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Brandon 9/19/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Security Design Principles<text:line-break/>Read: Lesson 2 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 2<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Brandon 9/19/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">9/19/2021</text:p>
@@ -1609,11 +1619,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 3 </text:p>
+      <text:p text:style-name="P33">Lesson 3 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Threat Modeling<text:line-break/>Read: Lesson 3 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 3<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Aspen 9/26/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Threat Modeling<text:line-break/>Read: Lesson 3 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 3<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Aspen 9/26/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">9/26/2021</text:p>
@@ -1621,11 +1631,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 4 </text:p>
+      <text:p text:style-name="P33">Lesson 4 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Security Policies<text:line-break/>Read: Lesson 4 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 4<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Brandon 10/3/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Security Policies<text:line-break/>Read: Lesson 4 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 4<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Brandon 10/3/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">10/3/2021</text:p>
@@ -1633,11 +1643,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 5 </text:p>
+      <text:p text:style-name="P33">Lesson 5 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Introduction to Cryptography<text:line-break/>Read: Lesson 5 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 5<text:line-break/>Apply: Online Labs <text:line-break/>Peer Review: Submit problem domain and review peers<text:line-break/>Webinar: Aspen 10/10/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Introduction to Cryptography<text:line-break/>Read: Lesson 5 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 5<text:line-break/>Apply: Online Labs <text:line-break/>Peer Review: Submit problem domain and review peers<text:line-break/>Webinar: Aspen 10/10/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">10/10/2021</text:p>
@@ -1645,12 +1655,12 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 6 </text:p>
+      <text:p text:style-name="P33">Lesson 6 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P28">Watch: Authentication<text:line-break/>Read: Lesson 6 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 6<text:line-break/>Apply: Online Labs</text:p>
-      <text:p text:style-name="P32">Peer Review: Submit Threat Model<text:line-break/>Webinar: Brandon 10/17/2021 7PM EST</text:p>
-      <text:p text:style-name="P32"><text:soft-page-break/></text:p>
+      <text:p text:style-name="P43">Watch: Authentication<text:line-break/>Read: Lesson 6 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 6<text:line-break/>Apply: Online Labs</text:p>
+      <text:p text:style-name="P48">Peer Review: Submit Threat Model<text:line-break/>Webinar: Brandon 10/17/2021 7PM EST</text:p>
+      <text:p text:style-name="P48"><text:soft-page-break/></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">10/17/2021</text:p>
@@ -1658,11 +1668,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 7 </text:p>
+      <text:p text:style-name="P33">Lesson 7 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Access Control (1): Operating Systems, phones<text:line-break/>Read: Lesson 7 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 7<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit hypothesis and review peers<text:line-break/>Webinar: Aspen 10/24/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Access Control (1): Operating Systems, phones<text:line-break/>Read: Lesson 7 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 7<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit hypothesis and review peers<text:line-break/>Webinar: Aspen 10/24/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">10/24/2021</text:p>
@@ -1670,11 +1680,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 8 </text:p>
+      <text:p text:style-name="P33">Lesson 8 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Access Control (2): IFC, O-Cap<text:line-break/>Read: Lesson 8 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 8<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Paola 10/31/21 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Access Control (2): IFC, O-Cap<text:line-break/>Read: Lesson 8 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 8<text:line-break/>Apply: Online Labs<text:line-break/>Webinar: Paola 10/31/21 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">10/31/2021</text:p>
@@ -1682,11 +1692,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 9 </text:p>
+      <text:p text:style-name="P33">Lesson 9 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Containerization: VMs, SFI, DoS<text:line-break/>Lesson 9 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 9<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit metric and review peers<text:line-break/>Webinar: Aspen 11/7/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Containerization: VMs, SFI, DoS<text:line-break/>Lesson 9 Readings<text:line-break/>Interact: Questions &amp; Prompt Discussion Forum<text:line-break/>Practice: Quiz Lesson 9<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit metric and review peers<text:line-break/>Webinar: Aspen 11/7/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">11/7/2021</text:p>
@@ -1694,11 +1704,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 10 </text:p>
+      <text:p text:style-name="P33">Lesson 10 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Injection attacks and defenses<text:line-break/>Read: Lesson 10 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 10<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit introduction and review peers<text:line-break/>Webinar: Paola 11/19/21 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Injection attacks and defenses<text:line-break/>Read: Lesson 10 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 10<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit introduction and review peers<text:line-break/>Webinar: Paola 11/19/21 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">11/14/2021</text:p>
@@ -1706,11 +1716,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 11 </text:p>
+      <text:p text:style-name="P33">Lesson 11 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Privacy and Anonymity<text:line-break/>Read: Lesson 11 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 11<text:line-break/><text:soft-page-break/>Apply: Online Labs 7PM EST<text:line-break/>Peer Review: Submit related research section and review peers<text:line-break/>Webinar: Paola 11/21/21 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Privacy and Anonymity<text:line-break/>Read: Lesson 11 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Practice: Quiz Lesson 11<text:line-break/><text:soft-page-break/>Apply: Online Labs 7PM EST<text:line-break/>Peer Review: Submit related research section and review peers<text:line-break/>Webinar: Paola 11/21/21 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">11/21/2021</text:p>
@@ -1718,11 +1728,11 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 12 </text:p>
+      <text:p text:style-name="P33">Lesson 12 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P31">Watch: Cryptocurrency<text:line-break/>Read: Lesson 12 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit empirical evidence and review peers<text:line-break/>Webinar: Aspen 12/5/2021 7PM EST</text:p>
-      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P47">Watch: Cryptocurrency<text:line-break/>Read: Lesson 12 Readings<text:line-break/>Interact: Questions Discussion Forum<text:line-break/>Apply: Online Labs<text:line-break/>Peer Review: Submit empirical evidence and review peers<text:line-break/>Webinar: Aspen 12/5/2021 7PM EST</text:p>
+      <text:p text:style-name="P47"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">12/5/2021</text:p>
@@ -1730,10 +1740,10 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23">Lesson 13 </text:p>
+      <text:p text:style-name="P33">Lesson 13 </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P28">Peer Review: Submit paper and present and review peers<text:line-break/>Webinar: Paola 11/21/21 7PM EST to discuss/answer any questions on final presentations/ submissions.</text:p>
+      <text:p text:style-name="P43">Peer Review: Submit paper and present and review peers<text:line-break/>Webinar: Paola 1<text:span text:style-name="T13">2</text:span>/21/21 7PM EST to discuss/answer any questions on final presentations/ submissions.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
       <text:p text:style-name="Standard">12/12/2021</text:p>
@@ -1753,73 +1763,73 @@
     <table:table-column table:style-name="Table3.E"/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P49">Criteria</text:p>
+      <text:p text:style-name="P36">Criteria</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P49">0 Points - Unacceptable</text:p>
+      <text:p text:style-name="P36">0 Points - Unacceptable</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P49">1 Point - Needs Improvement</text:p>
+      <text:p text:style-name="P36">1 Point - Needs Improvement</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P49">2 Points - Satisfactory</text:p>
+      <text:p text:style-name="P36">2 Points - Satisfactory</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P49">3 Points - Excellent</text:p>
+      <text:p text:style-name="P36">3 Points - Excellent</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.2">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
-      <text:p text:style-name="P49">Initial Posting Timing &amp; Relevance </text:p>
+      <text:p text:style-name="P36">Initial Posting Timing &amp; Relevance </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B2" office:value-type="string">
-      <text:p text:style-name="P49">Zero posts or does not meet the instructor&apos;s timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Zero posts or does not meet the instructor&apos;s timeline and requirements.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C2" office:value-type="string">
-      <text:p text:style-name="P49">Superficial thought. <text:s/>Addressed limited aspects relevant to the prompt and does not demonstrate an understanding of key concepts.</text:p>
-      <text:p text:style-name="P49">Met partial elements of instructor timeline and requirements</text:p>
+      <text:p text:style-name="P36">Superficial thought. <text:s/>Addressed limited aspects relevant to the prompt and does not demonstrate an understanding of key concepts.</text:p>
+      <text:p text:style-name="P36">Met partial elements of instructor timeline and requirements</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D2" office:value-type="string">
-      <text:p text:style-name="P49">Thoughts were well developed and addressed basic aspects relevant to the prompt and demonstrated base knowledge of concepts.</text:p>
-      <text:p text:style-name="P49">The student mostly met instructor timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Thoughts were well developed and addressed basic aspects relevant to the prompt and demonstrated base knowledge of concepts.</text:p>
+      <text:p text:style-name="P36">The student mostly met instructor timeline and requirements.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E2" office:value-type="string">
-      <text:p text:style-name="P49">Thoughts were well developed and fully addressed all aspects relevant to the prompt. Demonstrated excellent integration of key concepts. <text:s/>Met or exceeded instructor timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Thoughts were well developed and fully addressed all aspects relevant to the prompt. Demonstrated excellent integration of key concepts. <text:s/>Met or exceeded instructor timeline and requirements.</text:p>
      </table:table-cell>
     </table:table-row>
     <text:soft-page-break/>
     <table:table-row table:style-name="Table3.3">
      <table:table-cell table:style-name="Table3.A3" office:value-type="string">
-      <text:p text:style-name="P49">Reply Postings Timeline &amp; Relevance</text:p>
+      <text:p text:style-name="P36">Reply Postings Timeline &amp; Relevance</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B3" office:value-type="string">
-      <text:p text:style-name="P49">Zero replies, or replies not relevant to discussion topics</text:p>
+      <text:p text:style-name="P36">Zero replies, or replies not relevant to discussion topics</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C3" office:value-type="string">
-      <text:p text:style-name="P49">Replies were limited in relevance or did not enrich discussion (e.g. agrees or disagrees) or met partial elements of instructor timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Replies were limited in relevance or did not enrich discussion (e.g. agrees or disagrees) or met partial elements of instructor timeline and requirements.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D3" office:value-type="string">
-      <text:p text:style-name="P49">Elaborated on posts with further comment or observation, relevant to the topic. <text:s/>The student mostly met instructor timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Elaborated on posts with further comment or observation, relevant to the topic. <text:s/>The student mostly met instructor timeline and requirements.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E3" office:value-type="string">
-      <text:p text:style-name="P49">Demonstrated analysis of others&apos; posts, included meaningful comments. <text:s/>Offered thoughtful insight. <text:s/>Met or exceeded instructor timeline and requirements.</text:p>
+      <text:p text:style-name="P36">Demonstrated analysis of others&apos; posts, included meaningful comments. <text:s/>Offered thoughtful insight. <text:s/>Met or exceeded instructor timeline and requirements.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table3.4">
      <table:table-cell table:style-name="Table3.A4" office:value-type="string">
-      <text:p text:style-name="P49">Clarity &amp; Mechanics &amp; Reference</text:p>
+      <text:p text:style-name="P36">Clarity &amp; Mechanics &amp; Reference</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.B4" office:value-type="string">
-      <text:p text:style-name="P49">Zero posts, or posted unorganized content that may contain multiple grammatical or spelling errors or may be inappropriate. <text:s/>The student did not meet the instructor&apos;s requirements for references and citations.</text:p>
+      <text:p text:style-name="P36">Zero posts, or posted unorganized content that may contain multiple grammatical or spelling errors or may be inappropriate. <text:s/>The student did not meet the instructor&apos;s requirements for references and citations.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.C4" office:value-type="string">
-      <text:p text:style-name="P49">Communicated in a somewhat unorganized manner, with some errors in clarity and/or grammatical or spelling errors. <text:s/>Partially met instructor requirements for references and citations.</text:p>
+      <text:p text:style-name="P36">Communicated in a somewhat unorganized manner, with some errors in clarity and/or grammatical or spelling errors. <text:s/>Partially met instructor requirements for references and citations.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.D4" office:value-type="string">
-      <text:p text:style-name="P49">Communicated and contributed valuable information with minor errors in clarity and/or grammatical or spelling errors. <text:s/>The student mostly met instructor requirements for references and citations.</text:p>
+      <text:p text:style-name="P36">Communicated and contributed valuable information with minor errors in clarity and/or grammatical or spelling errors. <text:s/>The student mostly met instructor requirements for references and citations.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.E4" office:value-type="string">
-      <text:p text:style-name="P49">Communicated and contributed to discussions with clear, concise comments formatted in an easy to read style with no grammatical or spelling errors. Met or exceeded instructor requirements for references and citations.</text:p>
+      <text:p text:style-name="P36">Communicated and contributed to discussions with clear, concise comments formatted in an easy to read style with no grammatical or spelling errors. Met or exceeded instructor requirements for references and citations.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1830,117 +1840,117 @@
     <table:table-column table:style-name="Table4.B" table:number-columns-repeated="4"/>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P34"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P34"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P34"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P34"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P34"/>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.2">
      <table:table-cell table:style-name="Table4.A2" office:value-type="string">
-      <text:p text:style-name="P51">Criteria</text:p>
+      <text:p text:style-name="P50">Criteria</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P51">EXPERT</text:p>
-      <text:p text:style-name="P51">5 points</text:p>
+      <text:p text:style-name="P50">EXPERT</text:p>
+      <text:p text:style-name="P50">5 points</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P51">PROFICIENT</text:p>
-      <text:p text:style-name="P51">4 points</text:p>
+      <text:p text:style-name="P50">PROFICIENT</text:p>
+      <text:p text:style-name="P50">4 points</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P51">APPRENTICE</text:p>
-      <text:p text:style-name="P51">3 points</text:p>
+      <text:p text:style-name="P50">APPRENTICE</text:p>
+      <text:p text:style-name="P50">3 points</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P51">NOVICE</text:p>
-      <text:p text:style-name="P51">2 points</text:p>
+      <text:p text:style-name="P50">NOVICE</text:p>
+      <text:p text:style-name="P50">2 points</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.3">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
-      <text:p text:style-name="P52">INTEGRATION OF KNOWLEDGE</text:p>
+      <text:p text:style-name="P51">INTEGRATION OF KNOWLEDGE</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The presentation demonstrates that the student fully understands and has applied concepts learned <text:soft-page-break/>in the course. Concepts are integrated into the writer’s own insights. The writer provides concluding remarks that show the analysis and synthesis of ideas.</text:p>
+      <text:p text:style-name="P37">The presentation demonstrates that the student fully understands and has applied concepts learned <text:soft-page-break/>in the course. Concepts are integrated into the writer’s own insights. The writer provides concluding remarks that show the analysis and synthesis of ideas.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The presentation demonstrates that the student, for the most part, understands and has applied <text:soft-page-break/>concepts learned in the course. Some of the conclusions, however, are not supported in the body of the paper.</text:p>
+      <text:p text:style-name="P37">The presentation demonstrates that the student, for the most part, understands and has applied <text:soft-page-break/>concepts learned in the course. Some of the conclusions, however, are not supported in the body of the paper.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The presentation demonstrates that the student, to a certain extent, understands and <text:soft-page-break/>has applied concepts learned in the course.</text:p>
+      <text:p text:style-name="P37">The presentation demonstrates that the student, to a certain extent, understands and <text:soft-page-break/>has applied concepts learned in the course.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The presentation does not demonstrate that the student has fully understood and applied <text:soft-page-break/>concepts learned in the course.</text:p>
+      <text:p text:style-name="P37">The presentation does not demonstrate that the student has fully understood and applied <text:soft-page-break/>concepts learned in the course.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.4">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
-      <text:p text:style-name="P50">TOPIC FOCUS</text:p>
+      <text:p text:style-name="P37">TOPIC FOCUS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The topic is focused narrowly enough for the scope of this assignment. A thesis statement provides direction for the presentation by stating the hypothesis</text:p>
+      <text:p text:style-name="P37">The topic is focused narrowly enough for the scope of this assignment. A thesis statement provides direction for the presentation by stating the hypothesis</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The topic is focused but lacks direction. The presentation is about a specific topic but the writer has not established a position.</text:p>
+      <text:p text:style-name="P37">The topic is focused but lacks direction. The presentation is about a specific topic but the writer has not established a position.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The topic is too broad for the scope of this assignment.</text:p>
+      <text:p text:style-name="P37">The topic is too broad for the scope of this assignment.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">The topic is not clearly defined.</text:p>
+      <text:p text:style-name="P37">The topic is not clearly defined.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.5">
      <table:table-cell table:style-name="Table4.A3" office:value-type="string">
-      <text:p text:style-name="P50">SOURCES</text:p>
+      <text:p text:style-name="P37">SOURCES</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">More than 5 current sources, of which at least 3 are peer-review journal articles or scholarly books. Sources include both general background sources and specialized sources. Special interest sources and popular literature are acknowledged as such if they are cited. All web sites utilized are <text:soft-page-break/>authoritative.</text:p>
+      <text:p text:style-name="P37">More than 5 current sources, of which at least 3 are peer-review journal articles or scholarly books. Sources include both general background sources and specialized sources. Special interest sources and popular literature are acknowledged as such if they are cited. All web sites utilized are <text:soft-page-break/>authoritative.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">5 current sources, of which at least 2 are peer-review journal articles or scholarly books. All web sites utilized are authoritative.</text:p>
+      <text:p text:style-name="P37">5 current sources, of which at least 2 are peer-review journal articles or scholarly books. All web sites utilized are authoritative.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">Fewer than 5 current sources, or fewer than 2 of 5 are peer-reviewed journal articles or scholarly books. All web sites utilized are credible.</text:p>
+      <text:p text:style-name="P37">Fewer than 5 current sources, or fewer than 2 of 5 are peer-reviewed journal articles or scholarly books. All web sites utilized are credible.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P50">Fewer than 5 current sources, or fewer than 2 of 5 are peer-reviewed journal articles or scholarly books. Not all web sites utilized are credible, and/or sources are not current.</text:p>
+      <text:p text:style-name="P37">Fewer than 5 current sources, or fewer than 2 of 5 are peer-reviewed journal articles or scholarly books. Not all web sites utilized are credible, and/or sources are not current.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.6">
      <table:table-cell table:style-name="Table4.A6" office:value-type="string">
-      <text:p text:style-name="P48">Overall Score</text:p>
+      <text:p text:style-name="P35">Overall Score</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B6" office:value-type="string">
-      <text:p text:style-name="P48">Level 4</text:p>
-      <text:p text:style-name="P48">15 Points</text:p>
+      <text:p text:style-name="P35">Level 4</text:p>
+      <text:p text:style-name="P35">15 Points</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B6" office:value-type="string">
-      <text:p text:style-name="P48">Level 3</text:p>
-      <text:p text:style-name="P48">12 or more</text:p>
+      <text:p text:style-name="P35">Level 3</text:p>
+      <text:p text:style-name="P35">12 or more</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B6" office:value-type="string">
-      <text:p text:style-name="P48">Level 2</text:p>
-      <text:p text:style-name="P48">9 or more</text:p>
+      <text:p text:style-name="P35">Level 2</text:p>
+      <text:p text:style-name="P35">9 or more</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B6" office:value-type="string">
-      <text:p text:style-name="P48">Level 1</text:p>
-      <text:p text:style-name="P48">0 or more</text:p>
+      <text:p text:style-name="P35">Level 1</text:p>
+      <text:p text:style-name="P35">0 or more</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P20"/>
   </office:text>
  </office:body>
 </office:document>
