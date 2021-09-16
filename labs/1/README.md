@@ -2,6 +2,8 @@ Assignment at <https://github.com/HenryFBP/NYU-CS-GY-6813-seattletestbed-docs/tr
 
 Work at <https://github.com/HenryFBP/NYU-CS-GY-6813-repy_v2>
 
+Run `python3 repy.py encasementlib.r2py reference_monitor_hp2376.r2py attack_layer_1.r2py` to get started
+
 Commands from vbox ova file:
 
 ```
