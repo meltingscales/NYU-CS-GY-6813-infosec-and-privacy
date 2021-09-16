@@ -19,10 +19,10 @@ Important:
 5.  See files ending in "hp2376", i.e. `ls *hp2376*`, within `/RUNNABLE/`
 6.  Test it by running:
 
-        python3 repy.py encasementlib.r2py [security_layer].r2py [application].r2py
+        python3 repy.py encasementlib.r2py [security_layer].r2py [attack_program].r2py 
 
     or, in my case,
 
-        python3 repy.py encasementlib.r2py security_layer_hp2376.r2py attack1_hp2376.r2py
+        python3 repy.py encasementlib.r2py reference_monitor_hp2376.r2py attack1_hp2376.r2py
 
 7.  Alternatively, run a bunch of tests by running `test-all.sh` in root dir.
