@@ -17,4 +17,12 @@ Important:
 3.  `pushd scripts; python ./initialize.py; popd` (delete DEPENDENCIES folder to run again)
 4.  `python3 scripts/build.py` to create "RUNNABLE" folder
 5.  See files ending in "hp2376", i.e. `ls *hp2376*`, within `/RUNNABLE/`
-6.  Test it by running ``
+6.  Test it by running:
+
+        python3 repy.py encasementlib.r2py [security_layer].r2py [application].r2py
+
+    or, in my case,
+
+        python3 repy.py encasementlib.r2py security_layer_hp2376.r2py attack1_hp2376.r2py
+
+7.  Alternatively, run a bunch of tests by running `test-all.sh` in root dir.
