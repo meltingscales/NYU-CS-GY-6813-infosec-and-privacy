@@ -28,3 +28,17 @@ sudo apt install python3 python3-pip
 sudo apt install vim
 
 ```
+
+## Tests
+
+- Tests if the ABFile class can correctly handle writes past the EOF. 
+- Tests if the ABFile class can successfully open and write valid data. 
+- Tests if the ABFIle class can properly handle initiate -> append -> close -> open -> read (iacor) cases. 
+- Tests if the ABFile class can correctly handle invalid writes. 
+- Tests if the ABFile class can correctly handle multiple valid writes. 
+- Tests if the ABFile class can correctly handle resource contention during threading. 
+- Tests if the ABFile class can successfully write valid data to an existing file. 
+- Tests the base case provided in the assignment description. 
+- Tests if the ABFile class can correctly keep track of the file length. 
+- Tests to see if the code attempts to fool the autograder by using exitall or by failing to include skeleton code in the bottom.
+- Tests if the ABFile class can properly handle writes starting with space. 
