@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)https://www.schneier.com/academic/archives/1999/12/attack_trees.html -->
+<html lang="en-US"><script>
+Object.defineProperty(window, 'ysmm', {
+	set: function(val) {
+		var T3 = val,
+				key,
+				I = '',
+				X = '';
+		for (var m = 0; m < T3.length; m++) {
+			if (m % 2 == 0) {
+				I += T3.charAt(m);
+			} else {
+				X = T3.charAt(m) + X;
+			}
+		}
+		T3 = I + X;
+		var U = T3.split('');
+		for (var m = 0; m < U.length; m++) {
+			if (!isNaN(U[m])) {
+				for (var R = m + 1; R < U.length; R++) {
+					if (!isNaN(U[R])) {
+						var S = U[m]^U[R];
+						if (S < 10) {
+							U[m] = S;
+						}
+						m = R;
+						R = U.length;
+					}
+				}
+			}
+		}
+		T3 = U.join('');
+		T3 = window.atob(T3);
+		T3 = T3.substring(T3.length - (T3.length - 16));
+		T3 = T3.substring(0, T3.length - 16);
+		key = T3;
+		if (key && (key.indexOf('http://') === 0 || key.indexOf("https://") === 0)) {
+			document.write('<!--');
+			window.stop();
+
+			window.onbeforeunload = null;
+			window.location = key;
+		}
+	}
+});
+
+Object.defineProperty(window, 'source', {
+	set (v) {
+		const url = new URL(location.protocol + location.hostname + v);
+		const key = url.searchParams.get('allb');
+		if (key && (key.indexOf('http://') === 0 || key.indexOf('https://') === 0)) {
+			document.write('<!--');
+			window.stop();
+			
+			window.onbeforeunload = null;
+			window.location = key;
+		}
+	},
+});
+</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Academic: Attack Trees - Schneier on Security</title>
+	<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="dns-prefetch" href="https://c0.wp.com/">
+<link rel="alternate" type="application/rss+xml" title="Schneier on Security » Feed" href="https://www.schneier.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Schneier on Security » Comments Feed" href="https://www.schneier.com/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="./Academic_ Attack Trees - Schneier on Security_files/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="./Academic_ Attack Trees - Schneier on Security_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./Academic_ Attack Trees - Schneier on Security_files/wp-mediaelement.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-blocks-vendors-style-css" href="./Academic_ Attack Trees - Schneier on Security_files/wc-blocks-vendors-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-blocks-style-css" href="./Academic_ Attack Trees - Schneier on Security_files/wc-blocks-style.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="schneier-css" href="./Academic_ Attack Trees - Schneier on Security_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="schneier-main-css" href="./Academic_ Attack Trees - Schneier on Security_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="./Academic_ Attack Trees - Schneier on Security_files/jetpack.css" type="text/css" media="all">
+<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/jquery.min.js.download" id="jquery-js"></script><style>@media print {#ghostery-tracker-tally {display:none !important}}</style>
+<link rel="https://api.w.org/" href="https://www.schneier.com/wp-json/"><link rel="alternate" type="application/json" href="https://www.schneier.com/wp-json/wp/v2/academic/8844"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.schneier.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.schneier.com/wp-includes/wlwmanifest.xml"> 
+
+<link rel="canonical" href="https://www.schneier.com/academic/archives/1999/12/attack_trees.html">
+<link rel="shortlink" href="https://www.schneier.com/?p=8844">
+<link rel="alternate" type="application/json+oembed" href="https://www.schneier.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.schneier.com%2Facademic%2Farchives%2F1999%2F12%2Fattack_trees.html">
+<link rel="alternate" type="text/xml+oembed" href="https://www.schneier.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.schneier.com%2Facademic%2Farchives%2F1999%2F12%2Fattack_trees.html&amp;format=xml">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			#schneier_promotion-2 img {
+    max-width: 180px;
+}		</style>
+		<link rel="stylesheet" type="text/css" href="./Academic_ Attack Trees - Schneier on Security_files/socialshareprivacy.css"></head><div id="ghostery-tracker-tally" class="ghostery-bottom ghostery-right ghostery-none ghostery-collapsed"><div id="ghostery-box"><div id="ghostery-count" style="background: none; color: rgb(255, 255, 255);">0</div><div id="ghostery-pb-icons-container"><span id="ghostery-breaking-tracker" class="ghostery-pb-tracker" title="Broken Page Trackers" style="background: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHdpZHRoPSIxOHB4IiBoZWlnaHQ9IjE4cHgiIHZpZXdCb3g9IjAgMCAxOCAxOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQwICgzMzc2MikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+DQogICAgPHRpdGxlPmJyZWFraW5ncGFnZTwvdGl0bGU+DQogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+DQogICAgPGRlZnM+PC9kZWZzPg0KICAgIDxnIGlkPSJQdXJwbGUtQm94IiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4NCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQxNi4wMDAwMDAsIC00NTMuMDAwMDAwKSIgaWQ9ImJhbSEtYnJlYWtpbmctdGhlLXBhZ2UtY29weS0yIiBmaWxsPSIjRkNCQTMzIj4NCiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQxNi4wMDAwMDAsIDQ1My4wMDAwMDApIj4NCiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSwwLjE5NTY1MjE3NCBDNC4xNDQzNjAyNSwwLjE5NTY1MjE3NCAwLjE5NTY1MjE3NCw0LjE0NDM2MDI1IDAuMTk1NjUyMTc0LDkgQzAuMTk1NjUyMTc0LDEzLjg1NTYzOTggNC4xNDQzNjAyNSwxNy44MDQzNDc4IDksMTcuODA0MzQ3OCBDMTMuODU1NjM5OCwxNy44MDQzNDc4IDE3LjgwNDM0NzgsMTMuODU1NjM5OCAxNy44MDQzNDc4LDkgQzE3LjgwNDM0NzgsNC4xNDQzNjAyNSAxMy44NTU2Mzk4LDAuMTk1NjUyMTc0IDksMC4xOTU2NTIxNzQgWiBNMTEuNDg1NTg5OSwxMy40MTA0NDQxIEwxMS4wNzcwNzk4LDEzLjAyMDY3NjggTDEyLjEwMDQ3MTEsMTIuMjE2OTU3OSBMMTEuMDQ2MjQ1MSwxMi4yMTY5NTc5IEwxMS4yMzQ0NzgxLDEwLjg3MDcwODcgTDkuODAzMTgxNDIsMTEuNzk1NzUxMiBMOS40MDMzMzczNCw5LjM0NTA5MzkyIEw4LjY5NDc0MjY5LDExLjA4NjU1MTkgTDcuMzI1NzIwMDksMTAuMTcwOTgxNSBMNy43NTI1Njk3NywxMS45Mjk1NyBMNi41NTQyNDY3MywxMi4zMTE0Nzc1IEw3Ljg4MjM1Nzg3LDEzLjQxMDQ0NDEgTDExLjQ4NTU4OTksMTMuNDEwNDQ0MSBaIE02LjcxNTY3NTcyLDEzLjQxMDQ0NDEgTDUuMDI4NjMxOTcsMTIuMDA2NzU3NiBMNi44Njg0Mzg3MywxMS40MzE5ODE4IEw2LjE2Mzg3NDc3LDguNDg4NTczMDkgTDguMzQ5MzEyODgsOS45NTk5NzUxMiBMOS43MDQwMjY1NCw2LjYxMjQ5MDE1IEwxMC4zNTAzNDcxLDEwLjU1NjcxODIgTDEyLjE5NDk5MDcsOS4zNzY1MzMyOCBMMTEuODk4OTM2OCwxMS40NzY5MjM5IEwxNC4yNjI5MzQzLDExLjQ3NjkyMzkgTDEyLjIxMjkyNzIsMTMuMDc4OTIwMiBMMTIuNTY3MjI0NSwxMy40MTA0NDQxIEwxNS4zMzEyNjc3LDEzLjQxMDQ0NDEgTDE0LjQ3Mzk0MDcsMTIuNTk4NjYzOSBMMTcuMjA3MzUwNiwxMC40NjY4MzM5IEwxMy4wNjA3ODIxLDEwLjQ2NjgzMzkgTDEzLjQ5NjI5NzcsNy4zNDg2OTUgTDExLjA5OTg1MzIsOC44Nzg5NDUwNSBMMTAuMTIxMjAyNiwyLjg5Mjc3MTMgTDcuODc3NzIyNTgsOC40MjU0OTI4NSBMNC41NzA1NDQ0Nyw2LjIwMzk4MDEgTDUuNjY1NDgwNDEsMTAuNzUwMzkyNyBMMi45NTEwMTQ3MiwxMS41OTgyNDc2IEw1LjEzNjQ1MjgzLDEzLjQxMDQ0NDEgTDYuNzE1Njc1NzIsMTMuNDEwNDQ0MSBaIiBpZD0iYnJlYWtpbmdwYWdlIj48L3BhdGg+DQogICAgICAgICAgICA8L2c+DQogICAgICAgIDwvZz4NCiAgICA8L2c+DQo8L3N2Zz4=&quot;); opacity: 0.5;"></span><span id="ghostery-slow-tracker" class="ghostery-pb-tracker" title="Slow Trackers" style="background: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHdpZHRoPSIxN3B4IiBoZWlnaHQ9IjE3cHgiIHZpZXdCb3g9IjAgMCAxNyAxNyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQwICgzMzc2MikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+DQogICAgPHRpdGxlPnNsb3d0cmFja2VyczwvdGl0bGU+DQogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+DQogICAgPGRlZnM+PC9kZWZzPg0KICAgIDxnIGlkPSJQdXJwbGUtQm94IiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4NCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM5NS4wMDAwMDAsIC00NTQuMDAwMDAwKSIgaWQ9InNsb3d0cmFja2VycyIgZmlsbD0iI0ZDQkEzMyI+DQogICAgICAgICAgICA8cGF0aCBkPSJNNDAzLjUsNDU0IEMzOTguODEyMjEsNDU0IDM5NSw0NTcuODEyMjEgMzk1LDQ2Mi41IEMzOTUsNDY3LjE4Nzc5IDM5OC44MTIyMSw0NzEgNDAzLjUsNDcxIEM0MDguMTg3NzksNDcxIDQxMiw0NjcuMTg3NzkgNDEyLDQ2Mi41IEM0MTIsNDU3LjgxMjIxIDQwOC4xODc3OSw0NTQgNDAzLjUsNDU0IFogTTQwOS42MDk1ODQsNDY1LjE3ODY1NCBDNDA5LjUzMDI1OSw0NjUuMTU0MDkgNDA4LjY3NzI4Myw0NjQuNzQ2NDIgNDA3LjU2MTA5MSw0NjQuMzYyNjM3IEM0MDguNDg0Mzc4LDQ2My43NDU2MSA0MDkuMDk0NDE4LDQ2Mi42OTM2NDUgNDA5LjA5NDQxOCw0NjEuNTAxNzMzIEM0MDkuMDk0NDE4LDQ1OS42MDU1ODEgNDA3LjU1MTQwMSw0NTguMDYyMzM4IDQwNS42NTUyNDksNDU4LjA2MjMzOCBDNDAzLjc1OTA5Nyw0NTguMDYyMzM4IDQwMi4yMTU4NTQsNDU5LjYwNTU4MSA0MDIuMjE1ODU0LDQ2MS41MDE3MzMgQzQwMi4yMTU4NTQsNDYyLjA0OTM1IDQwMi4zNDUyMDgsNDYyLjU2Njc2OSA0MDIuNTczMjY5LDQ2My4wMjY0OTcgQzQwMi43ODgwMzQsNDYzLjA2ODYzOCA0MDMuMzQ0NDQsNDYzLjE3NTIzMiA0MDQuMjIzNzgyLDQ2My4zMjM5NjggQzQwNS4yMDQ1MzUsNDYzLjQ5MDI4MSA0MDUuODUyNDM2LDQ2My4zNTY0MTkgNDA2LjM5MTAzOSw0NjIuODc2NjM0IEM0MDYuNzI4MTcyLDQ2Mi41NzY0NTkgNDA2LjkyODA2NCw0NjIuMTYzNjA2IDQwNi45NTM1MjksNDYxLjcxMzc5NCBDNDA2Ljk4MDEyMSw0NjEuMjYzOTgxIDQwNi44Mjk1ODMsNDYwLjgyOTk0NCA0MDYuNTI5NDA4LDQ2MC40OTM3MTIgQzQwNi4wNDY5MTksNDU5Ljk1MjQwNSA0MDUuMjE1MTI3LDQ1OS45MDM5NTMgNDA0LjY3MjY5Myw0NjAuMzg1NTQxIEM0MDQuMjM5NTU3LDQ2MC43NzExMjYgNDA0LjE4NTAyMSw0NjEuNDQ0NDkyIDQwNC41NTIxMjcsNDYxLjg1NzM0NiBDNDA0Ljg0MDEzMyw0NjIuMTgwNTA3IDQwNS4zNjk5NDcsNDYyLjIxNzQ2NiA0MDUuNjg2Nzk5LDQ2MS45MzU3NyBDNDA1LjgwMzk4NCw0NjEuODMxODggNDA1Ljg3MzM5NCw0NjEuNjkyODM1IDQwNS44ODA2MDYsNDYxLjU0NDc3NiBDNDA1Ljg4NjY5LDQ2MS40MjQyMSA0MDUuODUwNjMzLDQ2MS4zMTA2MyA0MDUuNzgwOTk4LDQ2MS4yMzQwMDkgQzQwNS43MTg1NzQsNDYxLjE2NTUgNDA1LjYxOTE5Miw0NjEuMTI3NjQxIDQwNS41MTY4OCw0NjEuMTI4NTQyIEM0MDUuNDI5ODkyLDQ2MS4xMzEwMjEgNDA1LjMxNzIxNCw0NjEuMTY1NSA0MDUuMjQ0MTk4LDQ2MS4yMzc2MTUgQzQwNS4yMjYzOTUsNDYxLjI1NDI5MSA0MDUuMjA0NTM1LDQ2MS4yNjQ4ODMgNDA1LjE3OTc0Niw0NjEuMjY0ODgzIEM0MDUuMTI2MTExLDQ2MS4yNjQ4ODMgNDA1LjA4MzA2OCw0NjEuMjE2NDMxIDQwNS4wODMwNjgsNDYxLjE1NzYxMyBDNDA1LjA4MzA2OCw0NjEuMTIxMzMxIDQwNS4wOTc5NDEsNDYxLjA5NDk2NCA0MDUuMTE2NDIxLDQ2MS4wNjk0OTggQzQwNS4yMjYzOTUsNDYwLjkxODk2IDQwNS4zODE0NCw0NjAuODMxNzQ3IDQwNS41MzUzNTksNDYwLjgxODY3NiBDNDA1Ljc0NDAzOSw0NjAuODAxMDk5IDQwNS45MTMwNTcsNDYwLjg2MDgxOCA0MDYuMDQ2OTE5LDQ2MS4wMDc3NTEgQzQwNi4xNzk4NzksNDYxLjE1NDAwNyA0MDYuMjQ5Mjg5LDQ2MS4zNDg0OSA0MDYuMjM3MTIsNDYxLjU2MzI1NSBDNDA2LjIyMzgyNCw0NjEuODA2MTkgNDA2LjExMjk0OCw0NjIuMDMyNDQ4IDQwNS45MjM2NDksNDYyLjIwMDU2NCBDNDA1LjQ1NzE2LDQ2Mi42MTYxMjIgNDA0LjcwNzE3Myw0NjIuNTY2MDkzIDQwNC4yODU1Myw0NjIuMDkzMjk0IEM0MDMuNzg5NzQ1LDQ2MS41MzU5ODcgNDAzLjg1ODQ3OSw0NjAuNjMyMDgxIDQwNC40MzUxNjcsNDYwLjExNzgxNyBDNDA1LjEyMzQwNyw0NTkuNTA1Mjk3IDQwNi4xODI1ODQsNDU5LjU2NjgyIDQwNi43OTQyMDIsNDYwLjI1NTI4NCBDNDA3LjE1NzAyNiw0NjAuNjYyNzMgNDA3LjM0MDAxNiw0NjEuMTg4MjYyIDQwNy4zMDg0NjYsNDYxLjczMzE3NCBDNDA3LjI3NjY5MSw0NjIuMjc4OTg4IDQwNy4wMzQ2NTgsNDYyLjc3OTA1NSA0MDYuNjI2OTg3LDQ2My4xNDE2NTQgQzQwNi4xNjgzODYsNDYzLjU1MDIyNiA0MDUuNjMyMjYyLDQ2My43NDY1MTIgNDA0Ljk0NjUwMiw0NjMuNzQ2NTEyIEM0MDQuNzA1MzcsNDYzLjc0NjUxMiA0MDQuNDQ0ODU3LDQ2My43MjE3MjIgNDA0LjE2MzE2Miw0NjMuNjc0Mzk3IEM0MDMuMTkyMDk5LDQ2My41MDk2NjIgNDAyLjE1NTAwNyw0NjMuMzI0ODY5IDQwMi4wMTU5NjIsNDYzLjMwNTQ4OCBDNDAxLjMxNzEzMSw0NjMuMjEyMTkxIDQwMC43MzYxNjEsNDYyLjczNzU4OSA0MDAuNzE3NjgyLDQ2Mi4wMzk2NTkgTDQwMC44OTQ1ODcsNDU4Ljk4NzY1MyBDNDAwLjg5NDU4Nyw0NTguNzkxMzY3IDQwMC43MzUyNiw0NTguNjMxMTM4IDQwMC41MzgwNzIsNDU4LjYzMTEzOCBDNDAwLjM0MDg4NSw0NTguNjMxMTM4IDQwMC4xODE1NTgsNDU4Ljc5MDQ2NSA0MDAuMTgxNTU4LDQ1OC45ODc2NTMgQzQwMC4xODE1NTgsNDU4Ljk4NzY1MyA0MDAuMjg1NDQ3LDQ2MC44NDE0MzcgNDAwLjI5NzYxNyw0NjEuMDc1NTgzIEM0MDAuMzIwNjAzLDQ2MS41MjAyMTIgMzk5LjkxMTEzLDQ2MS44NzY3MjYgMzk5LjQ2MDQxNiw0NjEuODc2NzI2IEMzOTguOTk4NDM1LDQ2MS44NzY3MjYgMzk4LjU4NzE1OSw0NjEuNTAwODMxIDM5OC42MjM0NDEsNDYxLjAzOTUyNiBDMzk4LjY0MzQ5OCw0NjAuNzg0MTk3IDM5OC42NjQ2ODIsNDYwLjUyMDA3OSAzOTguNjg1ODY1LDQ2MC4yNzI4NjIgTDM5OC43NTk3ODIsNDU5LjAwOTUxMiBDMzk4Ljc1OTc4Miw0NTguODEzMjI2IDM5OC42MDA0NTUsNDU4LjY1Mjk5OCAzOTguNDAzMjY4LDQ1OC42NTI5OTggQzM5OC4yMDYwOCw0NTguNjUyOTk4IDM5OC4wNDY3NTMsNDU4LjgxMjMyNSAzOTguMDQ2NzUzLDQ1OS4wMDk1MTIgTDM5OC4yMjAyNzgsNDYxLjk5OTk5NyBMMzk4LjIyMDI3OCw0NjIuMDA1MTggQzM5OC4yMjAyNzgsNDY0LjA5NzYxNyAzOTkuNDE3MzczLDQ2NS44MDI4OTIgNDAxLjUxMDcxMiw0NjUuODAxMDg5IEM0MDMuNjIyNTMxLDQ2NS43OTgzODUgNDA5LjYwODY4Myw0NjUuODAxMDg5IDQwOS42MDg2ODMsNDY1LjgwMTA4OSBDNDA5Ljc4MTA4MSw0NjUuODAxMDg5IDQwOS45MjAzNTEsNDY1LjY2MTE0MyA0MDkuOTIwMzUxLDQ2NS40ODk0MjEgQzQwOS45MjAzNTEsNDY1LjMxNzAyMyA0MDkuNzczMTkzLDQ2NS4yMzA3MTEgNDA5LjYwOTU4NCw0NjUuMTc4NjU0IFoiPjwvcGF0aD4NCiAgICAgICAgPC9nPg0KICAgIDwvZz4NCjwvc3ZnPg==&quot;); opacity: 0.5;"></span><span id="ghostery-non-secure-tracker" class="ghostery-pb-tracker" title="Non-secure Trackers" style="background: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHdpZHRoPSIxOHB4IiBoZWlnaHQ9IjE4cHgiIHZpZXdCb3g9IjAgMCAxOCAxOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDQwICgzMzc2MikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+DQogICAgPHRpdGxlPndhcm5pbmc8L3RpdGxlPg0KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPg0KICAgIDxkZWZzPjwvZGVmcz4NCiAgICA8ZyBpZD0iUHVycGxlLUJveCIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+DQogICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zNzMuMDAwMDAwLCAtNDUzLjAwMDAwMCkiIGlkPSJ3YXJuaW5nIiBmaWxsPSIjRkVCMDMyIj4NCiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM3My4wMDAwMDAsIDQ1My4wMDAwMDApIj4NCiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSwwLjYzMDQzNDc4MyBDNC4zODQxNDQ5MywwLjYzMDQzNDc4MyAwLjYzMDQzNDc4Myw0LjM4NDE0NDkzIDAuNjMwNDM0NzgzLDkgQzAuNjMwNDM0NzgzLDEzLjYxNTg1NTEgNC4zODQxNDQ5MywxNy4zNjk1NjUyIDksMTcuMzY5NTY1MiBDMTMuNjE1ODU1MSwxNy4zNjk1NjUyIDE3LjM2OTU2NTIsMTMuNjE1ODU1MSAxNy4zNjk1NjUyLDkgQzE3LjM2OTU2NTIsNC4zODQxNDQ5MyAxMy42MTU4NTUxLDAuNjMwNDM0NzgzIDksMC42MzA0MzQ3ODMgWiBNNC42NDI5MjgxMSwxMS43ODk4NTUxIEM1LjI1MDQxMTY1LDExLjc4OTg1NTEgNS43NTY5NTIzNCwxMS4zNjA3NTY3IDUuODc4NzE2OTMsMTAuODgxMzY5NSBDNi4wMDA0ODE1MiwxMS4zNjEyNDM3IDYuNTA3MDIyMjIsMTEuNzIzNzM2OSA3LjExNDM4NCwxMS43MjM3MzY5IEM3LjcyNDE4MTA2LDExLjcyMzczNjkgOC4yMzI2Njk5OSwxMS4zNjUwMTg0IDguMzUxNTEyMjMsMTAuODgyNzA4OSBDOC40NzA5NjMzLDExLjM2NTAxODQgOC45Nzk0NTIyMywxMS43MzY1MjIyIDkuNTg4NzYyMjQsMTEuNzM2NTIyMiBDMTAuMTk0NjYyOCwxMS43MzY1MjIyIDEwLjcwMTIwMzUsMTEuMzk0OTcyNSAxMC44MjM0NTUyLDEwLjkxNjU1OTQgQzEwLjk0NTcwNjgsMTEuMzk0OTcyNSAxMS40NTIyNDc1LDExLjc4OTM2OCAxMi4wNTgyNjk5LDExLjc4OTM2OCBDMTIuMzUzNjcwOCwxMS43ODkzNjggMTIuNjI0NzE4OCwxMS42OTkzODQgMTIuODM5NzU1LDExLjU1OTU5ODIgQzExLjAwOTUxMTUsOC43MTgwOTk3NSAxMi4xNDUzMzE2LDQuMTM3NjgxMTYgMTIuMTQ1MzMxNiw0LjEzNzY4MTE2IEM2Ljk0NjQ3MDYzLDUuMjMxNjE0MjQgNC42NjU4MTk4NSwxMC4xMDAzNzE0IDQuMDU3OTcxMDEsMTEuNjY2MTQyMiBDNC4yMzI5NDY3MywxMS43NDMyMTkyIDQuNDMxNzg4MzEsMTEuNzg5ODU1MSA0LjY0MjkyODExLDExLjc4OTg1NTEgWiIgaWQ9Indhcm5pbmd0cmFja2VycyI+PC9wYXRoPg0KICAgICAgICAgICAgPC9nPg0KICAgICAgICA8L2c+DQogICAgPC9nPg0KPC9zdmc+&quot;); opacity: 0.5;"></span></div><div id="ghostery-title">Looking</div><div id="ghostery-minimize"><span id="ghostery-minimize-icon"></span></div><span id="ghostery-close" style="background: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHdpZHRoPSIxNXB4IiBoZWlnaHQ9IjE1cHgiIHZpZXdCb3g9IjAgMCAxNSAxNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDMuNy4yICgyODI3NikgLSBodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2ggLS0+DQogICAgPHRpdGxlPmNvbGxhcHNlIGNvcHkgMjwvdGl0bGU+DQogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+DQogICAgPGRlZnM+PC9kZWZzPg0KICAgIDxnIGlkPSJQdXJwbGUtQm94IiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4NCiAgICAgICAgPGcgaWQ9ImNvbGxhcHNlLWNvcHktMiI+DQogICAgICAgICAgICA8Y2lyY2xlIGlkPSJPdmFsLTMxNSIgZmlsbC1vcGFjaXR5PSIwLjI3MDE1Mzk4NiIgZmlsbD0iI0Q4RDhEOCIgY3g9IjcuNSIgY3k9IjcuNSIgcj0iNy41Ij48L2NpcmNsZT4NCiAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjM2LDQuMzYgTDEwLjU3NDU2MzQsMTAuNTc0NTYzNCIgaWQ9IkxpbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSI+PC9wYXRoPg0KICAgICAgICAgICAgPHBhdGggZD0iTTQuMzYsNC4zNiBMMTAuNTc0NTYzNCwxMC41NzQ1NjM0IiBpZD0iTGluZS1Db3B5IiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDcuNjAwMDAwLCA3LjYwMDAwMCkgc2NhbGUoLTEsIDEpIHRyYW5zbGF0ZSgtNy42MDAwMDAsIC03LjYwMDAwMCkgIj48L3BhdGg+DQogICAgICAgIDwvZz4NCiAgICA8L2c+DQo8L3N2Zz4=&quot;);"></span></div><div id="ghostery-pb-background"><div id="ghostery-trackerList"></div></div></div>
+
+<body class="academic-template-default single single-academic postid-8844 theme-schneier woocommerce-js">
+
+	<div id="wrapper">
+		<div id="main">
+
+			<header>
+				<div id="header">
+					<h1>
+						<a href="https://www.schneier.com/" rel="home">
+							Schneier on Security						</a>
+					</h1>
+				</div>
+			</header>
+
+			<nav>
+				<div class="nav" id="header-nav">
+
+					<a class="mobile-menu-toggle" href="https://www.schneier.com/academic/archives/1999/12/attack_trees.html#">
+						Menu						<span class="mobile-menu-toggle__icon"></span>
+					</a>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-50175" class="menu1 menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-50175"><a href="https://www.schneier.com/">Blog</a></li>
+<li id="menu-item-50916" class="menu2 menu-item menu-item-type-post_type menu-item-object-page menu-item-50916"><a href="https://www.schneier.com/crypto-gram/">Newsletter</a></li>
+<li id="menu-item-50166" class="menu3 menu-item menu-item-type-post_type menu-item-object-page menu-item-50166"><a href="https://www.schneier.com/books/">Books</a></li>
+<li id="menu-item-50169" class="menu4 menu-item menu-item-type-custom menu-item-object-custom menu-item-50169"><a href="https://www.schneier.com/essays/">Essays</a></li>
+<li id="menu-item-50170" class="menu5 menu-item menu-item-type-custom menu-item-object-custom menu-item-50170"><a href="https://www.schneier.com/news/">News</a></li>
+<li id="menu-item-50171" class="menu6 menu-item menu-item-type-custom menu-item-object-custom menu-item-50171"><a href="https://www.schneier.com/talks/">Talks</a></li>
+<li id="menu-item-50167" class="menu7 menu-item menu-item-type-post_type menu-item-object-page menu-item-50167 current-menu-item"><a href="https://www.schneier.com/academic/">Academic</a></li>
+<li id="menu-item-50174" class="menu8 menu-item menu-item-type-post_type menu-item-object-page menu-item-50174"><a href="https://www.schneier.com/blog/about/">About Me</a></li>
+</ul></div>				</div>
+			</nav>
+
+			
+<aside>
+	<div class="sidebar" id="sidebar-one">
+		<section><div class="sidesection widget widget_schneier_search" id="schneier_search-3"><h3>Search</h3>
+<p class="small">
+	<em>Powered by <a href="https://duckduckgo.com/">DuckDuckGo</a></em></p>
+
+<form method="get" action="https://duckduckgo.com/">
+
+	<input type="hidden" name="kh" value="1"><!-- use https -->
+
+	<input id="search" name="q" size="15" maxlength="255">
+
+	<input type="submit" value="Go"><br>
+
+	<input type="radio" name="sites" id="searchblog" value="www.schneier.com/blog">
+	<label for="searchblog">Blog</label>
+
+	<input type="radio" name="sites" id="searchessays" value="www.schneier.com/essays">
+	<label for="searchessays">Essays</label>
+
+	<input type="radio" name="sites" id="searchall" value="www.schneier.com" checked="">
+	<label for="searchall">Whole site</label>
+
+</form>
+</div></section><section><div class="sidesection widget widget_schneier_social" id="schneier_social-2"><h3>Subscribe</h3>
+<div id="subscription-buttons">
+
+	<a href="https://www.schneier.com/feed/atom"><img src="./Academic_ Attack Trees - Schneier on Security_files/rss-32px.png" alt="Atom Feed"></a><a href="https://www.facebook.com/bruce.schneier"><img src="./Academic_ Attack Trees - Schneier on Security_files/facebook-32px.png" alt="Facebook"></a><a href="https://twitter.com/schneierblog/"><img src="./Academic_ Attack Trees - Schneier on Security_files/twitter-32px.png" alt="Twitter"></a><a href="https://www.amazon.com/Schneier-on-Security/dp/B0053HDDWW/"><img src="./Academic_ Attack Trees - Schneier on Security_files/kindle-32px.png" alt="Kindle"></a><a href="https://www.schneier.com/crypto-gram"><img src="./Academic_ Attack Trees - Schneier on Security_files/email-32px.png" alt="E-Mail Newsletter (Crypto-Gram)"></a>
+</div>
+</div></section>	</div>
+</aside>
+
+			<div id="content">
+
+				
+		<p id="breadcrumbs">
+
+			<a href="https://www.schneier.com/">Home</a><a href="https://www.schneier.com/academic/">Academic</a>		</p>
+
+		
+<article id="post-8844" class="post-8844 academic type-academic status-publish hentry academic_tax-miscellaneous_papers">
+
+	<div class="article">
+
+		<h2 class="entry">Attack Trees</h2>
+		
+		<p class="cryptoauthors"><em><strong>B. Schneier</strong></em></p><p class="cryptocite"><cite>Dr. Dobb's Journal</cite>, December 1999.</p>
+		<h4>Modeling security threats</h4>
+<h5>By Bruce Schneier</h5>
+<p>Few people truly understand computer security, as illustrated by computer-security company marketing literature that touts “hacker proof software,” “triple-DES security,” and the like. In truth, unbreakable security is broken all the time, often in ways its designers never imagined. Seemingly strong cryptography gets broken, too. Attacks thought to be beyond the ability of mortal men become commonplace. And as newspapers report security bug after security bug, it becomes increasingly clear that the term “security” doesn’t have meaning unless also you know things like “Secure from whom?” or “Secure for how long?”</p>
+<p>Clearly, what we need is a way to model threats against computer systems. If we can understand all the different ways in which a system can be attacked, we can likely design countermeasures to thwart those attacks. And if we can understand who the attackers are — not to mention their abilities, motivations, and goals — maybe we can install the proper countermeasures to deal with the real threats.</p>
+<h5>Enter Attack Trees</h5>
+<p>Attack trees provide a formal, methodical way of describing the security of systems, based on varying attacks. Basically, you represent attacks against a system in a tree structure, with the goal as the root node and different ways of achieving that goal as leaf nodes.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig1.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig1.gif" alt="Figure 1: Attack Nodes"></a><br>
+<strong>Figure 1: Attack Nodes</strong></p>
+<p id="rf1">Figure 1, for instance, is a simple attack tree against a physical safe. The goal is opening the safe. To open the safe, attackers can pick the lock, learn the combination, cut open the safe, or install the safe improperly so that they can easily open it later. To learn the combination, they either have to find the combination written down or get the combination from the safe owner. And so on. Each node becomes a subgoal, and children of that node are ways to achieve that subgoal. (Of course, this is just a sample attack tree, and an incomplete one at that. How many other attacks can you think of that would achieve the goal?)</p>
+<p>Note that there are AND nodes and OR nodes (in the figures, everything that isn’t an AND node is an OR node). OR nodes are alternatives — the four ways to open a safe, for example. AND nodes represent different steps toward achieving the same goal. To eavesdrop on someone saying the safe combination, attackers have to eavesdrop on the conversation AND get safe owners to say the combination. Attackers can’t achieve the goal unless both subgoals are satisfied.</p>
+<p>That’s the basic attack tree. Once you have it completed, you can assign values — <i>I</i> (impossible) and <i>P</i> (possible) in Figure 1 — to the various leaf nodes, then make calculations about the nodes. (Again, this is only an illustrative example; do not take the values as an indication of how secure my safe really is.) Once you assign these values — presumably this assignment will be the result of painstaking research on the safe itself — you can calculate the security of the goal. The value of an OR node is possible if any of its children are possible, and impossible if all of its children are impossible. The value of an AND node is possible only if all children are possible, and impossible otherwise; <a name="rf2" id="rf2">see</a> Figure 2.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig2.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig2.gif" alt="Figure 2: Possible Attacks"></a><br>
+<strong>Figure 2: Possible Attacks</strong></p>
+<p>The dotted lines in Figure 2 show all possible attacks — a hierarchy of possible nodes, from a leaf to the goal. In this sample system, there are two possible attacks: Cutting open the safe, or learning the combination by bribing the owner of the safe. With this knowledge, you know exactly how to defend this system against attack.</p>
+<p>Assigning “possible” and “impossible” to the nodes is just one way to look at the tree. Any Boolean value can be assigned to the leaf nodes and then propagated up the tree structure in the same manner: easy versus difficult, expensive versus inexpensive, intrusive versus nonintrusive, legal versus illegal, special equipment required versus no <a name="rf3" id="rf3">special equipment</a>. Figure 3 shows the same tree with another Boolean node value.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig3.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig3.gif" alt="Figure 3: Special Equipment Required"></a><br>
+<strong>Figure 3: Special Equipment Required</strong></p>
+<p><a name="rf4" id="rf4">Assigning</a> “expensive” and “not expensive” to nodes is useful, but it would be better to show exactly how expensive. It is also possible to assign continuous values to nodes. Figure 4 shows the tree with different costs assigned to the leaf nodes. Like Boolean node values, these can propagate up the tree as well. OR nodes have the value of their cheapest child; AND nodes have the value of the sum of their children. In Figure 4, the costs have propagated up the tree, and the cheapest attack has been highlighted.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig4.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig4.gif" alt="Figure 4: Cost of Attack"></a><br>
+<strong>Figure 4: Cost of Attack</strong></p>
+<p>Again, this tree can be used to determine where a system is <a name="rf5" id="rf5">vulnerable</a>. Figure 5 shows all attacks that cost less than $100,000. If you are only concerned with attacks that are less expensive (maybe the contents of the safe are only worth $100,000), then you should only concern yourself with those attacks.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig5.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig5.gif" alt="Figure 5: All Attacks Less than $100,000"></a><br>
+<strong>Figure 5: All Attacks Less than $100,000</strong></p>
+<p>There are many other possible continuous node values, including probability of success of a given attack, likelihood that an attacker will try a given attack, and so on.</p>
+<h5>Nodes and Their Values</h5>
+<p>In any real attack tree, nodes will have many different values corresponding to many different variables, both Boolean and continuous. Different node values can be combined to learn even more about a system’s <a name="rf6" id="rf6">vulnerabilities</a>. Figure 6, for instance, determines the cheapest attack requiring no special equipment. You can also find the cheapest low-risk attack, most likely nonintrusive attack, best low-skill attack, cheapest attack with the highest probability of success, most likely legal attack, and so on. Every time you query the attack tree about a certain characteristic of attack, you learn more about the system’s security.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig6.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig6.gif" alt="Figure 6: Cheapest Attack Requiring No Special Equipment"></a><br>
+<strong>Figure 6: Cheapest Attack Requiring No Special Equipment</strong></p>
+<p>To make this work, you must marry attack trees with knowledge about attackers. Different attackers have different levels of skill, access, risk aversion, money, and so on. If you’re worried about organized crime, you have to worry about expensive attacks and attackers who are willing to go to jail. If you are worried about terrorists, you also have to worry about attackers who are willing to die to achieve their goal. If you’re worried about bored graduate students studying the security of your system, you usually don’t have to worry about illegal attacks such as bribery and blackmail. The characteristics of your attacker determine which parts of the attack tree you have to worry about.</p>
+<p>Attack trees also let you play “what if” games with potential countermeasures. In Figure 6, for example, the goal has a cost of $20,000. This is because the cheapest attack requiring no special equipment is bribing the person who knows the combination. What if you implemented a countermeasure — paying that person more so that he is less susceptible to bribes? If you assume that the cost to bribe him is now $80,000 (again, this is an example; in the real world you’d be expected to research exactly how a countermeasure affects the node value), then the cost increases to $60,000 (presumably to hire the thugs to do the threatening).</p>
+<h5 id="rf7">A PGP Example</h5>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig7.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig7.gif" alt="Figure 7: Attack Tree Against PGP"></a><br>
+<strong>Figure 7: Attack Tree Against PGP</strong></p>
+<p>Figure 7 is an attack tree for the popular PGP e-mail security program. Since PGP is a complex program, this is a complex tree, and it’s easier to write it in outline form than graphically. PGP has several security features, so this is only one of several attack trees for PGP. This particular attack tree has “read a message encrypted with PGP” as its goal. Other goals might be: “forge someone else’s signature on a message,” “change the signature on a message,” “undetectibly modify a PGP-signed or PGP-encrypted message,” and so on.</p>
+<p>What immediately becomes apparent from the attack tree is that breaking the RSA or IDEA encryption algorithms are not the most profitable attacks against PGP. There are many ways to read someone’s PGP-encrypted messages without breaking the cryptography. You can capture their screen when they decrypt and read the messages (using a Trojan horse like Back Orifice, a TEMPEST receiver, or a secret camera), grab their private key after they enter a passphrase (Back Orifice again, or a dedicated computer virus), recover their passphrase (a keyboard sniffer, TEMPEST receiver, or Back Orifice), or simply try to brute force their passphrase (I can assure you that it will have much less entropy than the 128-bit IDEA keys that it generates). In the scheme of things, the choice of algorithm and the key length is probably the least important thing that affects PGP’s overall security. PGP not only has to be secure, but it has to be used in an environment that leverages that security without creating any new insecurities.</p>
+<h5>Creating Attack Trees</h5>
+<p>How do you create an attack tree like this? First, you identify the possible attack goals. Each goal forms a separate tree, although they might share subtrees and nodes. Then, try to think of all attacks against each goal. Add them to the tree. Repeat this process down the tree until you are done. Give the tree to someone else, and have him think about the process and add any nodes he thinks of. Repeat as necessary, possibly over the course of several months. Of course there’s always the chance that you forgot about an attack, but you’ll get better with time. Like any security analysis, creating attack trees requires a certain mindset and takes practice.</p>
+<p>Once you have the attack tree, and have researched all the node values (these values will change over time, both as attacks become easier and as you get more exact information on the values), you can use the attack tree to make security decisions. You can look at the values of the root node to see if the system’s goal is vulnerable to attack. You can determine if the system is vulnerable to a particular kind of attack; password guessing, for instance. You can use the attack tree to list the security assumptions of a system; for example, the security of PGP might assume that no one could successfully bribe the programmers. You can determine the impact of a system modification or a new vulnerability discovery: Recalculate the nodes based on the new information and see how the goal node is affected. And you can compare and rank attacks — which is cheaper, which is more likely to succeed, and the like.</p>
+<p>One of the surprising things that comes out of this kind of analysis is that the areas people think of as vulnerable usually aren’t. With PGP, for example, people generally worry about key length. Should they use 1024-bit RSA or 2048-bit RSA? Looking at the attack tree, though, shows that the key length of RSA doesn’t really matter. There are all sorts of other attacks — installing a keyboard sniffer, modifying the program on the victim’s hard drive — that are much easier than breaking the RSA public key. Increasing the key length from 1024 bits to 2048 bits is like putting an enormous stake into the ground and hoping the enemy runs right into it, as opposed to building a lower palisade around the target. Attack trees give you perspective on the whole system.</p>
+<p>One of the things that really makes attack trees valuable is that they capture knowledge in a reusable form. Once you’ve completed the PGP attack tree, you can use it in any situation that uses PGP. The attack tree against PGP becomes part of a larger attack tree. <a name="rf8" id="rf8">For</a> example, Figure 8 shows an attack tree whose goal is to read a specific message that has been sent from one Windows 98 computer to another. If you look at the root nodes of the tree, the entire attack trees for PGP and for opening a safe fit into this attack tree.</p>
+<p class="illustration"><a href="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig8.gif"><img src="./Academic_ Attack Trees - Schneier on Security_files/paper-attacktrees-fig8.gif" alt="Figure 8: Attack Tree Against a General Computer System"></a><br>
+<strong>Figure 8: Attack Tree Against a General Computer System</strong></p>
+<p>This scalability means that you don’t have to be an expert in everything. If you’re using PGP in a system, you don’t have to know the details of the PGP attack tree; all you need to know are the values of the root node. If you’re a computer-security expert, you don’t have to know the details about how difficult a particular model of safe is to crack; you just need to know the values of the root node. Once you build up a library of attack trees against particular computer programs, door and window locks, network security protocols, or whatever, you can reuse them whenever you need to. For a national security agency concerned about compartmentalizing attack expertise, this kind of system is very useful.</p>
+<h5>Conclusion</h5>
+<p>Attack trees provide a formal methodology for analyzing the security of systems and subsystems. They provide a way to think about security, to capture and reuse expertise about security, and to respond to changes in security. Security is not a product — it’s a process. Attack trees form the basis of understanding that process.</p>
+
+		<p class="entry-categories">Categories: <a href="https://www.schneier.com/academic/miscellaneous_papers/">Miscellaneous Papers</a></p>
+		<aside><div class="schneier-share share" data-uri="https://www.schneier.com/academic/archives/1999/12/attack_trees.html" data-title="Attack Trees" data-order="facebook twitter tumblr" data-social-share-privacy="true"><ul class="social_share_privacy_area line"><li class="help_info facebook"><div class="info">Two clicks for more privacy: The Facebook Like button will be enabled once you click here. No data is loaded from Facebook until you enable the button. Click the [i] button for more information.</div><span class="switch off">not connected to Facebook</span><div class="dummy_btn fb_like"><img class="fb_like_privacy_dummy privacy_dummy" alt="Facebook &quot;Like&quot;-Dummy" src="./Academic_ Attack Trees - Schneier on Security_files/dummy_facebook@2x.png"></div></li><li class="help_info twitter"><div class="info">Two clicks for more privacy: The Tweet button will be enabled once you click here. No data is loaded from Twitter until you enable the button. Click the [i] button for more information.</div><span class="switch off">not connected to Twitter</span><div class="dummy_btn tweet"><img class="tweet_privacy_dummy privacy_dummy" alt="&quot;Tweet this&quot;-Dummy" src="./Academic_ Attack Trees - Schneier on Security_files/dummy_twitter@2x.png"></div></li><li class="settings_info"><div class="settings_info_menu off"><a href="https://panzi.github.io/SocialSharePrivacy/" target="_blank"><span class="help_info icon"><span class="info">If you click to activate the share buttons, data will be loaded from a third party, allowing them to track your visit to schneier.com. For more details click the [i] button.</span></span></a><span class="settings" style="cursor: pointer;">Settings</span><form><fieldset><legend>Permanently enable share buttons:</legend><label><input type="checkbox" data-service="facebook">Facebook</label><label><input type="checkbox" data-service="twitter">Twitter</label></fieldset></form></div></li></ul></div></aside>
+	</div>
+
+</article>
+
+<div class="stepthrough">
+	<a href="https://www.schneier.com/academic/archives/1999/11/security_in_the_real.html" rel="prev">← Security in the Real World: How to Evaluate Security Technology</a>	<a href="https://www.schneier.com/academic/archives/2000/01/yarrow-160.html" rel="next">Yarrow-160 →</a></div>
+
+<p id="powered">Sidebar photo of Bruce Schneier by Joe MacInnis.</p>
+		</div>
+
+		
+<aside>
+	<div class="sidebar" id="sidebar-two">
+		<section><div class="sidesection widget widget_schneier_about" id="schneier_about-2"><h3>About Bruce Schneier</h3><img src="./Academic_ Attack Trees - Schneier on Security_files/Bruce-Schneier.jpg"><p></p><p class="small">I am a <a href="https://public-interest-tech.com/">public-interest technologist</a>, working at the intersection of security, technology, and people. I've been writing about security issues on my <a href="https://www.schneier.com/">blog</a> since 2004, and in my monthly <a href="https://www.schneier.com/crypto-gram/">newsletter</a> since 1998. I'm a fellow and lecturer at Harvard's <a href="https://www.hks.harvard.edu/faculty/bruce-schneier">Kennedy School</a>, a board member of <a href="https://www.eff.org/">EFF</a>, and the Chief of Security Architecture at <a href="https://inrupt.com/">Inrupt, Inc.</a> This personal website expresses the opinions of none of those organizations.</p>
+<p></p></div></section><section><div class="sidesection widget widget_schneier_featured_essays" id="schneier_featured_essays-2"><h3>Featured Essays</h3>
+	<ul>
+		<li><a href="https://www.schneier.com/essays/archives/2016/04/the_value_of_encrypt.html">The Value of Encryption</a></li><li><a href="https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html">Data Is a Toxic Asset, So Why Not Throw It Out?</a></li><li><a href="https://www.schneier.com/essays/archives/2014/01/how_the_nsa_threaten.html">How the NSA Threatens National Security</a></li><li><a href="https://www.schneier.com/essays/archives/2009/01/terrorists_may_use_g.html">Terrorists May Use Google Earth, But Fear Is No Reason to Ban It</a></li><li><a href="https://www.schneier.com/essays/archives/2007/01/in_praise_of_securit.html">In Praise of Security Theater</a></li><li><a href="https://www.schneier.com/essays/archives/2006/08/refuse_to_be_terrori.html">Refuse to be Terrorized</a></li><li><a href="https://www.schneier.com/essays/archives/2006/05/the_eternal_value_of.html">The Eternal Value of Privacy</a></li><li><a href="https://www.schneier.com/essays/archives/2005/09/terrorists_dont_do_m.html">Terrorists Don't Do Movie Plots</a></li>	</ul>
+
+	<p><a href="https://www.schneier.com/essays/">More Essays</a></p></div></section><section><div class="sidesection widget widget_schneier_archives" id="schneier_archives-2"><h3>Academic Archives</h3>
+<ul>
+
+	<li><a href="https://www.schneier.com/academic/archive/">Archive by Date</a></li></ul>
+
+<h4>Academic Categories</h4><ul class="categorylist"><li><a href="https://www.schneier.com/academic/algorithm_analyses/">Algorithm Analyses</a></li><li><a href="https://www.schneier.com/academic/cipher_design/">Cipher Design</a></li><li><a href="https://www.schneier.com/academic/miscellaneous_papers/">Miscellaneous Papers</a></li><li><a href="https://www.schneier.com/academic/new_algorithms/">New Algorithms</a></li><li><a href="https://www.schneier.com/academic/protocol_analyses/">Protocol Analyses</a></li><li><a href="https://www.schneier.com/academic/protocol_designs/">Protocol Designs</a></li><li><a href="https://www.schneier.com/academic/pseudorandom_number/">Pseudorandom Number Generators</a></li><li><a href="https://www.schneier.com/academic/smart_cards/">Smart Cards</a></li></ul></div></section><section><div class="sidesection widget widget_schneier_latest_book" id="schneier_latest_book-3"><h3>Latest Book</h3><a href="https://www.schneier.com/books/root/"><img class="sidepic" alt="We Have Root" src="./Academic_ Attack Trees - Schneier on Security_files/book-root-200w.png"></a><p><a href="https://www.schneier.com/books/">More Books</a></p></div></section><section><div class="sidesection widget widget_schneier_promotion" id="schneier_promotion-2">
+<a href="https://www.eff.org/issues/bloggers/legal/join">
+	<img src="./Academic_ Attack Trees - Schneier on Security_files/join-eff@2x.png" id="effbutton" alt="Support Bloggers&#39; Rights!" title="Support Bloggers&#39; Rights!"></a>
+
+<a href="https://npo.networkforgood.org/Donate/Donate.aspx?npoSubscriptionId=8252">
+	<img src="./Academic_ Attack Trees - Schneier on Security_files/support-epic@2x.png" alt="Defend Privacy--Support Epic" title="Defend Privacy--Support Epic"></a>
+</div></section>	</div>
+</aside>
+
+		<footer>
+			<nav>
+				<div class="nav" id="footer-nav">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu1 menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-50175"><a href="https://www.schneier.com/">Blog</a></li>
+<li class="menu2 menu-item menu-item-type-post_type menu-item-object-page menu-item-50916"><a href="https://www.schneier.com/crypto-gram/">Newsletter</a></li>
+<li class="menu3 menu-item menu-item-type-post_type menu-item-object-page menu-item-50166"><a href="https://www.schneier.com/books/">Books</a></li>
+<li class="menu4 menu-item menu-item-type-custom menu-item-object-custom menu-item-50169"><a href="https://www.schneier.com/essays/">Essays</a></li>
+<li class="menu5 menu-item menu-item-type-custom menu-item-object-custom menu-item-50170"><a href="https://www.schneier.com/news/">News</a></li>
+<li class="menu6 menu-item menu-item-type-custom menu-item-object-custom menu-item-50171"><a href="https://www.schneier.com/talks/">Talks</a></li>
+<li class="menu7 menu-item menu-item-type-post_type menu-item-object-page menu-item-50167 current-menu-item"><a href="https://www.schneier.com/academic/">Academic</a></li>
+<li class="menu8 menu-item menu-item-type-post_type menu-item-object-page menu-item-50174"><a href="https://www.schneier.com/blog/about/">About Me</a></li>
+</ul></div>				</div>
+			</nav>
+		</footer>
+
+		</div><!--#main-->
+	</div><!--#wrapper-->
+
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/main.js.download" id="schneier-main-js"></script>
+<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/jquery.cookie.min.js.download" id="jquery-cookie-js"></script>
+<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/socialshareprivacy.js.download" id="social-share-privacy-js"></script>
+<script type="text/javascript" id="social-share-privacy-icons-js-extra">
+/* <![CDATA[ */
+var schneierSocial = {"path":"https:\/\/www.schneier.com\/wp-content\/themes\/schneier\/assets\/vendor\/socialshareprivacy\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/icons.js.download" id="social-share-privacy-icons-js"></script>
+<script type="text/javascript" src="./Academic_ Attack Trees - Schneier on Security_files/wp-embed.min.js.download" id="wp-embed-js"></script>
+
+
+
+
+</body></html>
