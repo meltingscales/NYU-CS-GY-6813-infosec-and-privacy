@@ -214,7 +214,7 @@ Word >
 - Oct 3rd at 7PM - Professor Sloan holds a webinar
 - Oct 10th at 7PM - Check-in for questions on research, grades before your 1st research submission
 
-<https://app.peergrade.io/>
+<https://app.peergrade.io/courses>
 
 ### What do I submit for Oct 10th?
 
