@@ -15,3 +15,4 @@ pee pee poo poo...
 - Why is ROP fundamentally vulnerable to memory timing attacks and heap spraying? Could be good.
   - https://ctf101.org/binary-exploitation/return-oriented-programming/
   - https://www.researchgate.net/figure/Stack-layout-of-Return-Oriented-Programming-attack_fig4_285493754
+- https://stackoverflow.com/questions/66825014/is-binary-serialization-inherently-unsafe
