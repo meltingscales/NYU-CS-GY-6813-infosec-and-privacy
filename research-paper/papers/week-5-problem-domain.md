@@ -4,3 +4,9 @@ Post a paragraph (150 words) description of the problem domain you will work on 
 
 ## Content
 
+what da fuq do I do?
+
+pee pee poo poo...
+
+:3c
+
