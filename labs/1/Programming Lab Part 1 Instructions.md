@@ -26,3 +26,9 @@ Important:
         python3 repy.py encasementlib.r2py reference_monitor_hp2376.r2py attack1_hp2376.r2py
 
 7.  Alternatively, run a bunch of tests by running `test-all.sh` in root dir.
+
+## Notes
+
+- dy_import_module_symbols
+- mycontext
+- emulated_file class is the same as openfile 
