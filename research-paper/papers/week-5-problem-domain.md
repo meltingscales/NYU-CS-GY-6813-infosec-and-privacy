@@ -57,6 +57,8 @@ The C programming language makes it easy to mis-manage memory. Buffer errors are
 
 ## Content
 
+This paper's domain is "automated vulnerability discovery, exploitation, and patching".
+
 The current nature of most open-source projects exist as a machine-readable, machine-parseable format. Builds are highly standardized and adhere to a common directory, syntax, and language format. Most open-source software is written in only a handful of languages: C, C++, C#, Python, Java, Go, Ruby, PHP.
 
 Github, as an example of a highly discoverable, open, and transparent code hosting solution, has enabled millions of developers to contribute application source code. Larger projects such as Apache Tomcat (webserver), Visual Studio Code (code editor), TensorFlow (ML library), React Native (JS Server-side framework), etc.
@@ -67,9 +69,15 @@ With the advent of highly discoverable and machine readable open source projects
 
 We are already seeing software component (or BOM, Bill of Materials) scanning, such as Snyk (http://snyk.io/) and (https://www.whitesourcesoftware.com/) show up. These detect components with already-discovered vulnerabilities, but not new vulnerabilities.
 
-However, software such as Fortify (), WebInspect (), and XYZ 
+However, software such as Fortify (), WebInspect (), SonarQube (https://www.sonarqube.org/)
 
 To counter this, a method must be devised for automatically detecting and patching open-source software vulnerabilities, before threat actors are able to auto-detect and auto-exploit software vulnerabilities.
 
 
 (needs 3 IEEE references)
+
+## Future work
+
+> put an AST into a ML model, and then also define "vulnerability" and track/mark it
+
+> david: just draw an ast of some know bug, preferably as close as it is in code, and see if you can quantify what mem access or unassigned var or garbage return happened - then your nouns of "vuln" is a collection of functions that go from subtree to violation; probably a search path even, if you track the source of bug cause-by-cause linearly
