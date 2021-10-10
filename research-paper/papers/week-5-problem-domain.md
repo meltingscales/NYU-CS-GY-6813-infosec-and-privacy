@@ -55,27 +55,6 @@ Serialized binary objects are inherently insecure in that they trust the disk to
 
 The C programming language makes it easy to mis-manage memory. Buffer errors are going to become easy to detect in open-source projects, and therefore exploit. 
 
-## Content
-
-This paper's domain is "automated vulnerability discovery, exploitation, and patching".
-
-The current nature of most open-source projects exist as a machine-readable, machine-parseable format. Builds are highly standardized and adhere to a common directory, syntax, and language format. Most open-source software is written in only a handful of languages: C, C++, C#, Python, Java, Go, Ruby, PHP.
-
-Github, as an example of a highly discoverable, open, and transparent code hosting solution, has enabled millions of developers to contribute application source code. Larger projects such as Apache Tomcat (webserver), Visual Studio Code (code editor), TensorFlow (ML library), React Native (JS Server-side framework), etc.
-
-Because of the nature of open-source, any software bugs created are also immediately visible to the entire world. These bugs may go unnoticed for years, later to be discovered by a security researcher, black hat hacker, or anyone else.
-
-With the advent of highly discoverable and machine readable open source projects, as well as automated vulnerability scanning, I believe that exists a latent risk of automated vulnerability scanning of open-source, leading into automated exploitation of undiscovered open-source vulnerabilities.
-
-We are already seeing software component (or BOM, Bill of Materials) scanning, such as Snyk (http://snyk.io/) and (https://www.whitesourcesoftware.com/) show up. These detect components with already-discovered vulnerabilities, but not new vulnerabilities.
-
-However, software such as Fortify (), WebInspect (), SonarQube (https://www.sonarqube.org/)
-
-To counter this, a method must be devised for automatically detecting and patching open-source software vulnerabilities, before threat actors are able to auto-detect and auto-exploit software vulnerabilities.
-
-
-(needs 3 IEEE references)
-
 ## Future work
 
 > put an AST into a ML model, and then also define "vulnerability" and track/mark it
