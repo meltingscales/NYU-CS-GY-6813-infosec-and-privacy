@@ -4,7 +4,7 @@
  <office:meta><meta:creation-date>2021-10-10T13:34:26.578000000</meta:creation-date><dc:date>2021-10-10T14:11:20.752000000</dc:date><meta:editing-duration>PT24M37S</meta:editing-duration><meta:editing-cycles>39</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="19" meta:word-count="505" meta:character-count="3971" meta:non-whitespace-character-count="3487"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">18496</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">30427</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">30660</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13661</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11649</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">25867</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10174</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2925</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">18496</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">30427</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">30658</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">32156</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">44087</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1912537</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1967188</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -149,7 +149,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -287,23 +287,26 @@
    <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001d2ed9"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00189bb7" officeooo:paragraph-rsid="00189bb7"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001d2ed9" officeooo:paragraph-rsid="001d2ed9"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="001d2ed9"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -423,25 +426,25 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">To counter the risk of a wide-scale automated software exploitation tool from being used on many open-source projects, perhaps to great effect, a method must be devised for automatically detecting and patching open-source software vulnerabilities, before threat actors are able to auto-detect and auto-exploit software vulnerabilities.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P12"><text:span text:style-name="T8">In this paper I plan to survey the current publicly available research in this paper’s domain (Automated software vulnerability discovery, exploitation, and patching), and perform analyses of OSS using freely available automated tools to see how easy it is to automatically discover, exploit, and perhaps even patch software vulnerabilities.</text:span></text:p>
+   <text:p text:style-name="P11">In this paper I plan to survey the current publicly available research in this paper’s domain (Automated software vulnerability discovery, exploitation, and patching), and perform analyses of OSS using freely available automated tools to see how easy it is to automatically discover, exploit, and perhaps even patch software vulnerabilities.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>References</text:h>
-   <text:list xml:id="list3411936807" text:style-name="L1">
+   <text:list xml:id="list3467795760" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P10">Z. Wang, Y. Zhang, Z. Tian, Q. Ruan, T. Liu, H. Wang, Z. Liu, J. Lin, B. Fang, and W. Shi, “Automated Vulnerability Discovery and Exploitation in the Internet of Things,” Sensors, vol. 19, no. 15, p. 3362, Jul. 2019 [Online]. Available: <text:a xlink:type="simple" xlink:href="http://dx.doi.org/10.3390/s19153362" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://dx.doi.org/10.3390/s19153362</text:a></text:p>
-     <text:p text:style-name="P10"/>
+     <text:p text:style-name="P12">Z. Wang, Y. Zhang, Z. Tian, Q. Ruan, T. Liu, H. Wang, Z. Liu, J. Lin, B. Fang, and W. Shi, “Automated Vulnerability Discovery and Exploitation in the Internet of Things,” Sensors, vol. 19, no. 15, p. 3362, Jul. 2019 [Online]. Available: <text:a xlink:type="simple" xlink:href="http://dx.doi.org/10.3390/s19153362" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://dx.doi.org/10.3390/s19153362</text:a></text:p>
+     <text:p text:style-name="P12"/>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10">“Vulnerability scanning of IOT devices in Jordan using SHODAN,” IEEE Xplore. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/document/8277814" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/document/8277814</text:a>. </text:p>
-     <text:p text:style-name="P11"/>
+     <text:p text:style-name="P12">“Vulnerability scanning of IOT devices in Jordan using SHODAN,” IEEE Xplore. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/document/8277814" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/document/8277814</text:a>. </text:p>
+     <text:p text:style-name="P13"/>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">“The Coming Era of alphahacking?: A survey of automatic software vulnerability detection, exploitation and patching techniques,” <text:span text:style-name="T3">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/8411838" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/8411838</text:a>.</text:p>
+     <text:p text:style-name="P15">“The Coming Era of alphahacking?: A survey of automatic software vulnerability detection, exploitation and patching techniques,” <text:span text:style-name="T3">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/8411838" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/8411838</text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">“A machine learning-based approach for automated vulnerability remediation analysis,” <text:span text:style-name="T3">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/9162309" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/9162309</text:a>.</text:p>
+     <text:p text:style-name="P14">“A machine learning-based approach for automated vulnerability remediation analysis,” <text:span text:style-name="T3">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/9162309" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/9162309</text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">“Robot hacking games,” <text:span text:style-name="T3">Center for Security and Emerging Technology</text:span>, 05-Oct-2021. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://cset.georgetown.edu/publication/robot-hacking-games/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://cset.georgetown.edu/publication/robot-hacking-games/</text:a>.</text:p>
+     <text:p text:style-name="P14">“Robot hacking games,” <text:span text:style-name="T3">Center for Security and Emerging Technology</text:span>, 05-Oct-2021. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://cset.georgetown.edu/publication/robot-hacking-games/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://cset.georgetown.edu/publication/robot-hacking-games/</text:a>.</text:p>
     </text:list-item>
    </text:list>
   </office:text>
