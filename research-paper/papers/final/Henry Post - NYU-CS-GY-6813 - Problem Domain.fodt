@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2021-10-10T13:34:26.578000000</meta:creation-date><dc:date>2021-10-16T15:19:16.177000000</dc:date><meta:editing-duration>PT2H55M30S</meta:editing-duration><meta:editing-cycles>63</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="56" meta:word-count="1068" meta:character-count="7582" meta:non-whitespace-character-count="6573"/></office:meta>
+ <office:meta><meta:creation-date>2021-10-10T13:34:26.578000000</meta:creation-date><dc:date>2021-10-16T15:26:52.538000000</dc:date><meta:editing-duration>PT2H55M52S</meta:editing-duration><meta:editing-cycles>64</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="22" meta:word-count="517" meta:character-count="4056" meta:non-whitespace-character-count="3562"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">56268</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">52354</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">40880</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18214</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18302</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -16,9 +16,9 @@
      <config:config-item config:name="ViewLeft" config:type="long">23495</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">61632</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">56268</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">52354</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">40878</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">74480</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">70654</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2311180</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2332406</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -150,7 +150,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -294,79 +294,86 @@
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="001d2ed9"/>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="001d2ed9" officeooo:paragraph-rsid="001d2ed9"/>
+   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="001d2ed9"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001d2ed9" officeooo:paragraph-rsid="001d2ed9"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00189bb7" officeooo:paragraph-rsid="00189bb7"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:orphans="0"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0023440c"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:line-height="150%" fo:orphans="0"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:paragraph-rsid="001a3aa0"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="001a3aa0"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2b2b2b" loext:opacity="100%" style:font-name="apple-system" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00189bb7" officeooo:paragraph-rsid="00189bb7"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="001a3aa0"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001a3aa0" officeooo:paragraph-rsid="001a3aa0"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0023440c" officeooo:paragraph-rsid="0023440c"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0023440c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00189bb7"/>
@@ -517,142 +524,6 @@
     </style:list-level-properties>
    </text:list-level-style-bullet>
   </text:list-style>
-  <text:list-style style:name="L3">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="0.7854in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="1.2764in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="1.7673in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="2.2583in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="2.7492in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="3.2402in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="3.7315in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="4.2224in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="4.7134in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L4">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L5">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -687,92 +558,35 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T8">Additionally</text:span>, software such as Fortify (<text:a xlink:type="simple" xlink:href="https://www.microfocus.com/en-us/cyberres/application-security" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.microfocus.com/en-us/cyberres/application-security</text:a>), WebInspect (<text:a xlink:type="simple" xlink:href="https://www.microfocus.com/en-us/cyberres/application-security/webinspect" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.microfocus.com/en-us/cyberres/application-security/webinspect</text:a>), and SonarQube (<text:a xlink:type="simple" xlink:href="https://www.sonarqube.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.sonarqube.org/</text:a>) are offered commercially or for free, to perform software composition analysis <text:span text:style-name="T10">(SCA)</text:span>. These tools can allow you to discover new vulnerabilities in software without manual testing.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P7">If an SCA tool were to be fully integrated with a framework that allowed for code scanning, exploit generation, <text:span text:style-name="T10">exploit </text:span><text:span text:style-name="T11">mutation</text:span>, exploit confirmation, and exploit execution, it would make exploiting security vulnerabilities in open-source project<text:span text:style-name="T10">s</text:span> <text:span text:style-name="T10">trivial compared to traditional human-powered methods.</text:span></text:p>
+   <text:p text:style-name="P9">If an SCA tool were to be fully integrated with a framework that allowed for code scanning, exploit generation, <text:span text:style-name="T10">exploit </text:span><text:span text:style-name="T11">mutation</text:span>, exploit confirmation, and exploit execution, it would make exploiting security vulnerabilities in open-source project<text:span text:style-name="T10">s</text:span> <text:span text:style-name="T10">trivial compared to traditional human-powered methods.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">To counter the risk of a wide-scale automated software exploitation tool from being used on many open-source projects, perhaps to great effect, a method must be devised for automatically detecting and patching open-source software vulnerabilities, before threat actors are able to auto-detect and auto-exploit software vulnerabilities.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P9">In this paper I plan to survey the current publicly available research in this paper’s domain (Automated software vulnerability discovery, exploitation, and patching), and perform analyses of OSS using freely available automated tools to see how easy it is to automatically discover, exploit, and perhaps even patch software vulnerabilities.</text:p>
+   <text:p text:style-name="P11">In this paper I plan to survey the current publicly available research in this paper’s domain (Automated software vulnerability discovery, exploitation, and patching), and perform analyses of OSS using freely available automated tools to see how easy it is to automatically discover, exploit, and perhaps even patch software vulnerabilities.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>References</text:h>
-   <text:list xml:id="list1857687767" text:style-name="L1">
+   <text:list xml:id="list3395921226" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P17">Z. Wang, Y. Zhang, Z. Tian, Q. Ruan, T. Liu, H. Wang, Z. Liu, J. Lin, B. Fang, and W. Shi, “Automated Vulnerability Discovery and Exploitation in the Internet of Things,” Sensors, vol. 19, no. 15, p. 3362, Jul. 2019 [Online]. Available: <text:a xlink:type="simple" xlink:href="http://dx.doi.org/10.3390/s19153362" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://dx.doi.org/10.3390/s19153362</text:a></text:p>
-     <text:p text:style-name="P17"/>
+     <text:p text:style-name="P26">Z. Wang, Y. Zhang, Z. Tian, Q. Ruan, T. Liu, H. Wang, Z. Liu, J. Lin, B. Fang, and W. Shi, “Automated Vulnerability Discovery and Exploitation in the Internet of Things,” Sensors, vol. 19, no. 15, p. 3362, Jul. 2019 [Online]. Available: <text:a xlink:type="simple" xlink:href="http://dx.doi.org/10.3390/s19153362" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://dx.doi.org/10.3390/s19153362</text:a></text:p>
+     <text:p text:style-name="P26"/>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">“Vulnerability scanning of IOT devices in Jordan using SHODAN,” IEEE Xplore. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/document/8277814" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/document/8277814</text:a>. </text:p>
-     <text:p text:style-name="P18"/>
+     <text:p text:style-name="P26">“Vulnerability scanning of IOT devices in Jordan using SHODAN,” IEEE Xplore. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/document/8277814" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/document/8277814</text:a>. </text:p>
+     <text:p text:style-name="P27"/>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">“The Coming Era of alphahacking?: A survey of automatic software vulnerability detection, exploitation and patching techniques,” <text:span text:style-name="T4">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/8411838" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/8411838</text:a>.</text:p>
+     <text:p text:style-name="P29">“The Coming Era of alphahacking?: A survey of automatic software vulnerability detection, exploitation and patching techniques,” <text:span text:style-name="T4">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/8411838" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/8411838</text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">“A machine learning-based approach for automated vulnerability remediation analysis,” <text:span text:style-name="T4">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/9162309" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/9162309</text:a>.</text:p>
+     <text:p text:style-name="P28">“A machine learning-based approach for automated vulnerability remediation analysis,” <text:span text:style-name="T4">IEEE Xplore</text:span>. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://ieeexplore.ieee.org/abstract/document/9162309" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://ieeexplore.ieee.org/abstract/document/9162309</text:a>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">“Robot hacking games,” <text:span text:style-name="T4">Center for Security and Emerging Technology</text:span>, 05-Oct-2021. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://cset.georgetown.edu/publication/robot-hacking-games/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://cset.georgetown.edu/publication/robot-hacking-games/</text:a>.</text:p>
+     <text:p text:style-name="P28">“Robot hacking games,” <text:span text:style-name="T4">Center for Security and Emerging Technology</text:span>, 05-Oct-2021. [Online]. Available: <text:a xlink:type="simple" xlink:href="https://cset.georgetown.edu/publication/robot-hacking-games/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://cset.georgetown.edu/publication/robot-hacking-games/</text:a>.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P5"/>
    <text:h text:style-name="P16" text:outline-level="2">Extra <text:span text:style-name="T14">Resources</text:span></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Tools</text:h>
-   <text:p text:style-name="P29">For a tools table, see “Henry Post – NYU-CS-GY-6813 – Tools.fods”.</text:p>
-   <text:h text:style-name="P11" text:outline-level="1">Criticism 1</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">&gt; <text:span text:style-name="Variable">Can the stated problem be decomposed into smaller problems? If so, how? (NO)</text:span></text:h>
-   <text:p text:style-name="Text_20_body">I <text:span text:style-name="T14">disagree with this response, I</text:span> <text:span text:style-name="T14">believe </text:span>my stated problem could be further decomposed:</text:p>
-   <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list4030076360" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P27">What&apos;s the current state-of-the-art automated <text:span text:style-name="T14">{</text:span>exploit generation, vulnerability detection, patching<text:span text:style-name="T14">}?</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P26">Is this paper a meta-analysis of current papers?</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P27"><text:span text:style-name="T14">Can you make a more specific hypothesis about one property of automated {exploit generation, vulnerability detection, patching}? Perhaps,</text:span></text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P28">How will Machine Learning (ML) affect automated {x,y,z}?</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P28">How has ML accelerated the velocity of automated {x,y,z}?</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P28">Is it just ML? Or perhaps other technological paradigms as well, like genetic algorithms?</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are there specific domains that have mappable problems? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">YES</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable"><text:span text:style-name="T14">(blank)</text:span></text:span></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are the references in IEEE format and good sources? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">YES</text:span></text:span></text:h>
-   <text:p text:style-name="P31"/>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable"><text:span text:style-name="T14">(blank)</text:span></text:span></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Variable">Based on your responses to the previous questions, please rate your classmate&apos;s response to this prompt and provide a brief written explanation for your rating. </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">(2/3 average)</text:span></text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="Variable">&gt; A little too in the weeds for a Problem Statement, but otherwise good content.</text:span></text:p>
-   <text:p text:style-name="P19"><text:span text:style-name="Variable"><text:span text:style-name="T15">This is a good point. I would like to make a less technical abstract.</text:span></text:span></text:p>
-   <text:p text:style-name="P20"/>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="Variable"/></text:p>
-   <text:h text:style-name="P14" text:outline-level="1"><text:span text:style-name="Variable"><text:span text:style-name="T14">Criticism 2</text:span></text:span></text:h>
-   <text:h text:style-name="P15" text:outline-level="2">&gt; <text:span text:style-name="Variable">Can the stated problem be decomposed into smaller problems? If so, how? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">(YES)</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt; Automated software vulnerability notification is a feature that is presently available on GitHub. Additionally, there are tools for scanning source code for vulnerabilities when using processes such as continuous integration. There is much potential to at least analyze these current solutions and hypothesize on improvements.</text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are there specific domains that have mappable problems? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">YES</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt;Yes, to me the larger domain topic is vulnerability management and patching.</text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are the references in IEEE format and good sources? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">NO</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt; A few of the references don&apos;t appear to be in IEEE format, for example: <text:line-break/>&gt; “The Coming Era of alphahacking?: A survey of automatic software vulnerability detection, exploitation and patching techniques,” IEEE Xplore. [Online]. Available: https://ieeexplore.ieee.org/abstract/document/8411838 <text:line-break/><text:line-break/>&gt; I believe proper format should be: <text:line-break/>&gt; T. Ji, Y. Wu, C. Wang, X. Zhang and Z. Wang, &quot;The Coming Era of AlphaHacking?: A Survey of Automatic Software Vulnerability Detection, Exploitation and Patching Techniques,&quot; 2018 IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018, pp. 53-60, doi: 10.1109/DSC.2018.00017. However I am new to this and could be wrong!</text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">Based on your responses to the previous questions, please rate your classmate&apos;s response to this prompt and provide a brief written explanation for your rating. </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">(</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T3">3</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">/3 above average)</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt; Automated software vulnerability notification is a feature that is presently available on GitHub. Additionally, there are tools for scanning source code for vulnerabilities when building using processes such as continuous integration. There is much potential to at least analyze these current solutions and hypothesize on improvements.</text:span></text:p>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable"/></text:p>
-   <text:h text:style-name="P14" text:outline-level="1"><text:span text:style-name="Variable"><text:span text:style-name="T14">Criticism 3</text:span></text:span></text:h>
-   <text:h text:style-name="P15" text:outline-level="2">&gt; <text:span text:style-name="Variable">Can the stated problem be decomposed into smaller problems? If so, how? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">NO</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt;</text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">N</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T7">A</text:span></text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are there specific domains that have mappable problems? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">N</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T3">O</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt;</text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">N</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T7">A</text:span></text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">&gt; Are the references in IEEE format and good sources? </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">Y</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T3">ES</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt;</text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">NA</text:span></text:span></text:p>
-   <text:h text:style-name="P15" text:outline-level="2"><text:span text:style-name="Variable">Based on your responses to the previous questions, please rate your classmate&apos;s response to this prompt and provide a brief written explanation for your rating. </text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">(3</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T3">/3 above average</text:span></text:span><text:span text:style-name="Variable"><text:span text:style-name="T14">)</text:span></text:span></text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Variable">&gt; well stated domain. very interesting problem. Implementation can be narrow enough by only considering specific OSS projects. I look forward to reading the results of this at the end of the semester.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T14">For a tools table, see “Henry Post – NYU-CS-GY-6813 – Tools.fods”.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
