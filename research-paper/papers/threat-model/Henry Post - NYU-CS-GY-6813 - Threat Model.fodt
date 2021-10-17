@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2021-10-17T17:29:28.937000000</dc:date><meta:editing-duration>PT2H14M22S</meta:editing-duration><meta:editing-cycles>90</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="4" meta:paragraph-count="48" meta:word-count="691" meta:character-count="4282" meta:non-whitespace-character-count="3667"/></office:meta>
+ <office:meta><dc:date>2021-10-17T18:01:17.290000000</dc:date><meta:editing-duration>PT2H45M48S</meta:editing-duration><meta:editing-cycles>135</meta:editing-cycles><meta:generator>LibreOffice/7.1.5.2$Windows_X86_64 LibreOffice_project/85f04e9f809797b8199d13c421bd8a2b025d52b5</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="3" meta:paragraph-count="41" meta:word-count="785" meta:character-count="4952" meta:non-whitespace-character-count="4229"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">75918</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">1321</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">37735</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">17607</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12400</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">87824</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24712</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">8244</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">75918</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1321</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">37733</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">93523</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">18927</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -127,7 +127,7 @@
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintFaxName" config:type="string"/>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -264,57 +264,51 @@
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001834da"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0014fc50"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0017652d"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00176709" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
    <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
    <style:text-properties officeooo:paragraph-rsid="001834da"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
    <style:text-properties officeooo:paragraph-rsid="001834da"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="001834da" officeooo:paragraph-rsid="001834da"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00130ce9"/>
@@ -820,15 +814,13 @@
    <text:h text:style-name="P1" text:outline-level="1">Threat <text:span text:style-name="T1">Model</text:span></text:h>
    <text:h text:style-name="P2" text:outline-level="2"><text:span text:style-name="T2">A</text:span>utomated software vulnerability <text:line-break/>discovery, exploitation, and patching</text:h>
    <text:p text:style-name="P3"><text:span text:style-name="T3">Henry Post, </text:span><text:a xlink:type="simple" xlink:href="mailto:hp2376@nyu.edu" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">hp2376@nyu.edu</text:span></text:a><text:span text:style-name="T4">, NYU-CS-GY-6813</text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T5">The threat, in this problem domain (Automated software vulnerability discovery, exploitation, and patching) comes from external systems that would automatically scan </text:span><text:span text:style-name="T6">open-source software (OSS)</text:span><text:span text:style-name="T5"> source code, parse it, detect vulnerabilities, and then attempt to exploit those vulnerabilities.</text:span></text:p>
-   <text:p text:style-name="P6">We need to protect the customers that consume the OSS itself from undiscovered bugs in the software. The vulnerability exists <text:span text:style-name="T6">because vulnerable software is released at all, in any capacity. Attackers take advantage of </text:span>the time that it takes <text:span text:style-name="T6">maintainers of OSS </text:span>to detect vulnerabilities, patch the code, and then deploy patches to customers. <text:span text:style-name="T6">This time is valuable to an attacker, as it means that they can attempt to exploit the vulnerability in systems that are unpatched.</text:span></text:p>
-   <text:p text:style-name="P6">“<text:span text:style-name="T6">Customer” in this context means any individual, organization, or even </text:span><text:span text:style-name="T7">other software components that consume the OSS. For example, a “customer” could be you, if you used Apache Tomcat (webserver software) to host a personal website. It could also be Canonical Ltd., the current maintainers of the Ubuntu distribution of Linux, because they likely use nginx (network load balancer software) to host various websites, and nginx is OSS.</text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T6">I</text:span>deally, the vulnerabilities would be detected earlier in the software development lifecycle <text:span text:style-name="T6">(SDLC)</text:span>, before code was ever released to customers. This can be done by performing automated security scanning earlier (“shifting security left”) in the software development lifecycle.</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T6">A</text:span>ttackers have various methods and motives for targeting OSS, and the attack methods are very diverse. They occur after we release the vulnerable software into the wild. <text:span text:style-name="T6">The </text:span><text:a xlink:type="simple" xlink:href="https://owasp.org/www-project-top-ten/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">OWASP Top Ten</text:span></text:a><text:span text:style-name="T6"> list is a good starting point to understand what kind of attacks could be performed on insecure software.</text:span></text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P18">The diagram below shows a very simplified view of the SDLC lifecycle, focusing on vulnerability generation and how vulnerabilities are exploited and fixed. </text:p>
-   <text:p text:style-name="P17">Note that in this diagram I use “bug” and “vulnerability” interchangeably.</text:p>
-   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="-0.2472in" svg:y="0.0709in" svg:width="7.3673in" svg:height="3.5953in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P4"><text:span text:style-name="T5">The threat, in this problem domain (Automated software vulnerability discovery, exploitation, and patching) comes from external systems that would automatically scan </text:span><text:span text:style-name="T6">open-source software (OSS)</text:span><text:span text:style-name="T5"> source code, parse it, detect vulnerabilities, and then attempt to exploit those vulnerabilities. </text:span><text:span text:style-name="T6">It could also include human attackers that perform the same function as the external systems – exploiting software bugs.</text:span></text:p>
+   <text:p text:style-name="P5">We need to protect the customers that consume the OSS itself from undiscovered bugs in the software. The vulnerability exists <text:span text:style-name="T6">because vulnerable software is released at all, in any capacity. Attackers take advantage of </text:span>the time that it takes <text:span text:style-name="T6">maintainers of OSS </text:span>to detect vulnerabilities, patch the code, and then deploy patches to customers. <text:span text:style-name="T6">This time is valuable to an attacker, as it means that they can attempt to exploit the vulnerability in systems that are unpatched.</text:span></text:p>
+   <text:p text:style-name="P5">“<text:span text:style-name="T6">Customer” in this context means any individual, organization, or even </text:span><text:span text:style-name="T7">other software components that consume the OSS. For example, a “customer” could be you, if you used Apache Tomcat (webserver software) to host a personal website. It could also be Canonical Ltd., the current maintainers of the Ubuntu distribution of Linux, because they likely use nginx (network load balancer software) to host various websites, and nginx is OSS.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T6">I</text:span>deally, the vulnerabilities would be detected earlier in the software development lifecycle <text:span text:style-name="T6">(SDLC)</text:span>, before code was ever released to customers. This can be done by performing automated security scanning earlier, <text:span text:style-name="T6">and generally improving the security posture of the entire SDLC </text:span>(“<text:span text:style-name="T9">shifting security left</text:span>”).</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T6">A</text:span>ttackers have various methods and motives for targeting OSS, and the attack methods are very diverse. They occur after we release the vulnerable software into the wild. <text:span text:style-name="T6">The </text:span><text:a xlink:type="simple" xlink:href="https://owasp.org/www-project-top-ten/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T6">OWASP Top Ten</text:span></text:a><text:span text:style-name="T6"> list is a good starting point to understand what kind of attacks could be performed on insecure software.</text:span></text:p>
+   <text:p text:style-name="P6">The diagram below shows a very simplified view of the SDLC lifecycle, focusing on vulnerability generation and how vulnerabilities are exploited and fixed. <text:span text:style-name="T9">Note that in this diagram I use “bug” and “vulnerability” interchangeably.</text:span></text:p>
+   <text:p text:style-name="P12"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="-0.2472in" svg:y="0.0709in" svg:width="7.3673in" svg:height="3.5953in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA9kAAAH1CAYAAADiRT2OAAAeWHpUWHRSYXcgcHJvZmlsZSB0
        eXBlIGV4aWYAAHjarZtpbmQ5koT/8xRzBO50HocrMDeY489njFBWVnY1MMC0hJRCEe/xkb6Y
        mzmZ7vzPf1/3X3y1UMzl0qz2Wj1fueceBy/Mf77G+xl8fj/f1+4+fd/92/vulu/LyG9d8rnM
@@ -2697,51 +2689,47 @@
        nA39Rn/PAAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:span text:style-name="T6"><text:line-break/>Our goal is to prevent vulnerabilities from being introduced in releases (“Release Software”). <text:s/>In order to do this, we need to ensure that vulnerabilities are always discovered </text:span><text:span text:style-name="T8">within</text:span><text:span text:style-name="T6"> the SDLC Feedback Loop (red box) and not outside of it. We cannot rely on our users to report on vulnerabilities, and we cannot rely on malicious users to not exploit vulnerabilities. Therefore, we must ensure that we do not introduce vulnerabilities outside of the SDLC.</text:span></text:p>
-   <text:p text:style-name="P7">The fact that bugs ever leave the SDLC Feedback Loop could be viewed as a failure of one or more of the processes within the loop. One or more nodes must be modified, or one or more nodes must be added/removed.</text:p>
+    </draw:frame><text:soft-page-break/><text:span text:style-name="T6"><text:line-break/>Our goal is to prevent vulnerabilities from being introduced in releases (“Release Software”). <text:s/>In order to do this, we need to ensure that vulnerabilities are always discovered </text:span><text:span text:style-name="T8">within</text:span><text:span text:style-name="T6"> the SDLC Feedback Loop (red box) and not outside of it. </text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T6">Everything outside of the red box (past “Release Software”) will have an effect on customers. If we allow vulnerabilities outside of software releases, they could end up negatively affecting the people that use software that we develop.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T6">We cannot rely on our users to report on vulnerabilities, and we cannot rely on malicious users to not exploit vulnerabilities. Therefore, we must ensure that we do not introduce vulnerabilities outside of the SDLC.</text:span></text:p>
+   <text:p text:style-name="P6">The fact that bugs ever leave this “simplified” SDLC Feedback Loop could be viewed as a failure of one or more of the processes within the loop. To fix this, one or more nodes (processes) must be modified, or one or more nodes must be added/removed.</text:p>
    <text:list xml:id="list1779028964" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P8">Develop Software</text:p>
+     <text:p text:style-name="P7">Develop Software</text:p>
     </text:list-item>
    </text:list>
    <text:list xml:id="list883732781" text:style-name="L6">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P15"><text:span text:style-name="T6">This is where bugs are generated.</text:span></text:p>
+       <text:p text:style-name="P14"><text:span text:style-name="T6">This is where bugs are generated.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P9">The fact that bugs are generated here is a failure of this node.</text:p>
+       <text:p text:style-name="P8">The fact that bugs are generated here is a failure of this node.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P9">Improve developer training/security mindset.</text:p>
+         <text:p text:style-name="P8">Improve developer training/security mindset.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P9">Replace human developers with automated (AI/robot) developers that are less error-prone.</text:p>
+         <text:p text:style-name="P8">Replace human developers with automated (AI/robot) developers that are less error-prone.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P9">Improve development processes</text:p>
+         <text:p text:style-name="P8">Improve development processes</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P9"><text:span text:style-name="T9">Utilize defensive programming/paradigms</text:span></text:p>
+           <text:p text:style-name="P8"><text:span text:style-name="T9">Scan code as it is run in a test system</text:span></text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P8"><text:soft-page-break/><text:span text:style-name="T9">Scan code while it is written inside the IDE (editor) by a developer</text:span></text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P8"><text:span text:style-name="T9">Scan code as it is compiled</text:span></text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P8"><text:span text:style-name="T9">Utilize defensive programming/paradigms</text:span></text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P9"><text:span text:style-name="T9">Design-by-contract</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P9"><text:soft-page-break/><text:span text:style-name="T9">Fail-fast</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P9"><text:span text:style-name="T9">Strong typing</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P9"><text:span text:style-name="T9">Typestate analysis</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P9"><text:span text:style-name="T9">Formal verification</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P9"><text:span text:style-name="T9">etc</text:span></text:p>
+             <text:p text:style-name="P8"><text:span text:style-name="T9">Design-by-contract, Fail-fast, Strong typing, Typestate analysis, Formal verification, etc.</text:span></text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2752,50 +2740,49 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list172930185433352" text:continue-list="list1779028964" text:style-name="L5">
+   <text:list xml:id="list180125665798904" text:continue-list="list1779028964" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P8">Test Software</text:p>
+     <text:p text:style-name="P7">Test Software</text:p>
     </text:list-item>
    </text:list>
    <text:list xml:id="list3593606550" text:style-name="L7">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P16"><text:span text:style-name="T6">This is where bugs </text:span><text:span text:style-name="T8">should </text:span><text:span text:style-name="T10">be detected and fixed.</text:span></text:p>
+       <text:p text:style-name="P15"><text:span text:style-name="T6">This is where bugs </text:span><text:span text:style-name="T8">should </text:span><text:span text:style-name="T10">be detected and fixed.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P10"><text:span text:style-name="T9">The fact that bugs are not detected here is a failure of this node.</text:span></text:p>
+       <text:p text:style-name="P9"><text:span text:style-name="T9">The fact that bugs are not detected here is a failure of this node.</text:span></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P10"><text:span text:style-name="T9">Improve testing procedures</text:span></text:p>
+         <text:p text:style-name="P9"><text:span text:style-name="T9">Improve testing procedures</text:span></text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">Unit testing</text:span></text:p>
+           <text:p text:style-name="P9"><text:span text:style-name="T9">Unit testing</text:span></text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P10"><text:span text:style-name="T9">Require full code coverage</text:span></text:p>
+             <text:p text:style-name="P9"><text:span text:style-name="T9">Require full code coverage</text:span></text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P10"><text:span text:style-name="T9">Improve software analysis</text:span></text:p>
+         <text:p text:style-name="P9"><text:span text:style-name="T9">Improve software analysis</text:span></text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">SAST/DAST/IAST scanning</text:span></text:p>
+           <text:p text:style-name="P9"><text:span text:style-name="T9">Static application security testing, (SAST)/Dynamic AST/Integrated (dual) AST scanning</text:span></text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">Scan code as it is run in a test system</text:span></text:p>
+           <text:p text:style-name="P9"><text:span text:style-name="T9">Scan code after it is checked-in to a version control system (VCS) and before it is released</text:span></text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">Scan code as it is compiled</text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">Scan code while it is written inside the IDE (editor) by a developer</text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P10"><text:span text:style-name="T9">Scan code after it is checked-in to a version control system (VCS)</text:span></text:p>
+           <text:p text:style-name="P9"><text:span text:style-name="T9">Scan third-party components that are used in code </text:span></text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P9"><text:span text:style-name="T9">Detect </text:span><text:a xlink:type="simple" xlink:href="https://twitter.com/CVEnew/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T9">CVE (Common Vulnerability Enumerations)</text:span></text:a><text:span text:style-name="T9"> that have been reported for third-party components</text:span></text:p>
+            </text:list-item>
+           </text:list>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2804,55 +2791,39 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list172929917683238" text:continue-list="list172930185433352" text:style-name="L5">
+   <text:list xml:id="list180125310079134" text:continue-list="list180125665798904" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P8">Bug Discovery</text:p>
+     <text:p text:style-name="P7">Bug Discovery</text:p>
     </text:list-item>
    </text:list>
    <text:list xml:id="list372182293" text:style-name="L8">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">This is the process of realizing a bug exists, recording its existence, and/or fixing it.</text:p>
+       <text:p text:style-name="P10">This is the process of realizing a bug exists, recording its existence, and/or fixing it.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list172929852173201" text:continue-list="list172929917683238" text:style-name="L5">
+   <text:list xml:id="list180126109659008" text:continue-list="list180125310079134" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P14"><text:span text:style-name="T6">Fix Bugs</text:span></text:p>
+     <text:p text:style-name="P13"><text:span text:style-name="T6">Fix Bugs</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:list xml:id="list3413073673" text:style-name="L9">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P12">This is the process of performing code changes to fix a vulnerability (bug).</text:p>
+       <text:p text:style-name="P11">This is the process of performing code changes to fix a vulnerability (bug).</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P11">This process feeds back into (1), “Develop Software”.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P7">Aside from </text:p>
-   <text:p text:style-name="P18">remove me ;p</text:p>
-   <text:p text:style-name="Text_20_body"/>
-   <text:list xml:id="list2269063550" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P4">Understand your system</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P4">Understand what assets/resources need to be protected</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P4">Predict who the potential attackers are against a particular asset and what are the possible (known) attacks</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P4">Perform risk assessment. Determine what is the expected risk (quantitative or qualitative) because of an attack </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P4">Perform risk management: Employ security mechanisms (mitigation), if needed. Determine if they are cost effective</text:p>
-    </text:list-item>
-   </text:list>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"><text:span text:style-name="T6">In summary, the entire SDLC lifecycle could be improved with additions to software testing, packaging, code validation, code scanning, analysis of third-party components used in source code, and improved developer training on security and secure coding. Many points made in this Threat Model can be summed up by “Move security sooner into the development process”, or “shift security left”.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
