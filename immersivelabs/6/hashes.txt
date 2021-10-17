@@ -1,0 +1,3 @@
+part1:$6$WJ9Y7LHr$Tfbjp94zPKkvZtBE./bhLVaWuXK.Qn9WZzMmX6jlubL7pJ9t4CU.CZMoO..SrbiYOdzCD3Z9.ssA5gCEdXore1:1001:1001::/home/part1:/bin/bash
+part2:$6$OiSz6xnZ$XPAdQmO01dGRcdNVpd5jJ2tzkSrUMqXTdYedYKgNWcMOA9ukr8pgJ61xNY1OOcmu3pTLKicnnC27mRa6vnrfJ0:1002:1002::/home/part2:/bin/bash
+part3:$6$hv6ZhFAI$mYgadpdFqo8V0ylhdgE7.mZ5GaKM4Os1wZzu6ZOCnX9rR./JSNBUG/9felcRcTGTVlWLQ6X1OwW9Wpb9ifzus1:1003:1003::/home/part3:/bin/bash
