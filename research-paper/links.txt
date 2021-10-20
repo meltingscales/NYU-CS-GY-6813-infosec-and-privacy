@@ -1,3 +1,5 @@
 
 https://github.com/ligurio/lark-grammars/tree/master/lark_grammars/grammars
 https://lark-parser.readthedocs.io/en/latest/
+https://pypi.org/project/bandit/
+https://github.com/PyCQA/bandit/blob/master/bandit/plugins/django_sql_injection.py#L72
