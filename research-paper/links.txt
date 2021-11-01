@@ -16,3 +16,6 @@ https://github.com/hchasestevens/astpath
 https://greentreesnakes.readthedocs.io/en/latest/
 
 https://github.com/facebook/sapp
+
+(on linkers) https://www.airs.com/blog/archives/38
+https://archive.fosdem.org/2017/schedule/event/valgrind_angr/attachments/slides/1797/export/events/attachments/valgrind_angr/slides/1797/slides.pdf
