@@ -1,0 +1,40 @@
+QUESTION 1 OF 3
+Does the chart/table effectively convey the comparison? Please explain.
+
+REVIEWER #1 TO YOUR SUBMISSION
+
+No
+
+
+ADDITIONAL COMMENT
+
+I read through the explanation section at the beginning and some of the other comments in the document. I agree that I think you should try to narrow this down a bit more to a single use case. For instance, if you are comparing the effectiveness of two software vulnerability scanning tools, you could maybe get raw numeric metrics.
+
+
+QUESTION 2 OF 3
+Can you suggest additional measurements or chart types that could be used?
+
+REVIEWER #1 TO YOUR SUBMISSION
+
+As I explained above, recommend finding a method to pull metrics depending on what you narrow this down to, and creating visuals based on that data.
+
+
+Comment
+
+Flag
+
+ Like
+QUESTION 3 OF 3
+Based on your responses to the previous questions, please rate your classmate's response to this prompt and provide a brief written explanation for your rating.
+
+REVIEWER #1 TO YOUR SUBMISSION
+
+2 - Average
+ADDITIONAL COMMENT
+
+I think more work will be needed to get this narrowed down as mentioned above. On a different topic, I had a bit of an issue reading this document. It looks like it wasn't saved quite right (filename was a GUID and lacked file extension), so I had to pull out the magic bytes and figure out that it was a ODT. Not sure if others reviewing this will run into the same problem, but just wanted to let you know.
+
+5e407611-15aa-4c61-a6cb-b95694d9b513 · just now
+
+Thanks for this. I totally forgot to convert this to PDF. I kind of wish peergrade blocked any non-"doc/docx/pdf" filetypes.
+Click the flag and send a message to notify your teacher.
