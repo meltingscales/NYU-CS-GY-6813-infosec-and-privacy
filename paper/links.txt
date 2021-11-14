@@ -19,3 +19,20 @@ https://github.com/facebook/sapp
 
 (on linkers) https://www.airs.com/blog/archives/38
 https://archive.fosdem.org/2017/schedule/event/valgrind_angr/attachments/slides/1797/export/events/attachments/valgrind_angr/slides/1797/slides.pdf
+
+
+# metasploit framework POC exploit for some irfanview vuln
+cblob/master/modules/exploits/windows/fileformat/irfanview_jpeg2000_bof.rb
+https://duckduckgo.com/?q=ShowPlugInSaveOptions_W+irfanview&ia=web
+https://github.com/KamasuOri/publicResearch
+https://www.opencve.io/cve/CVE-2020-23565
+https://vulners.com/cve/CVE-2020-23565
+https://duckduckgo.com/?q=CVE-2020-23565+poc&ia=web
+
+## maybe related
+"JPEGofDeath"
+https://packetstormsecurity.com/files/download/34466/JpegOfDeath.c
+
+## not related
+    C:\Users\furry\Git> git clone https://github.com/rapid7/rex-exploitation
+    C:\Users\furry\Git> git clone https://github.com/rapid7/metasploit-framework/
