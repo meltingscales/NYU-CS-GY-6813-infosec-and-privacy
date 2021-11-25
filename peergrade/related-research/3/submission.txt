@@ -1,0 +1,12 @@
+Related Work
+
+[1] X. Li, B. A. Azad, A. Rahmati, and N. Nikiforakis, “Good Bot, Bad Bot: Characterizing Automated Browsing Activity,” in Good Bot, Bad Bot: Characterizing Automated Browsing Activity, Conference Start Date: 24 May 2021, San Francisco, CA, USA, USA.
+
+[2] P. A. P. d. Cruz, “Stony Brook University.” [Online]. Available: http://hdl.handle.net.proxy.library.nyu.edu/10316/87307
+
+[3] M. Mehmet, K. Callaghan, and C. Lewis, “Lots of bots or maybe nots: A process for detecting bots in social media research.” [Online]. Available: 10.1177/14707853211027486
+
+Above are related works where they try to determine the Good Bot vs Bad one. In above research they were try to use the automated bot testing to check which will work in most of the cases. As there are more and more bots implemented, there are also good chances that the attacker improve them.
+
+What I am trying to do is to implement some random logic that will change the bot detection. For example, we have seen lot of place to select Bicycle or Cross walk. Similarly, we can also have match calculation with the pictures. Also the bot detection and also capturing the person or computer details. In addition to this, this will be calculated along with the time to respond. I feel that the combination will help to detect the bad bot.
+
