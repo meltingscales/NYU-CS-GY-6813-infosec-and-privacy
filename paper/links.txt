@@ -34,5 +34,7 @@ https://duckduckgo.com/?q=CVE-2020-23565+poc&ia=web
 https://packetstormsecurity.com/files/download/34466/JpegOfDeath.c
 
 ## not related
-    C:\Users\furry\Git> git clone https://github.com/rapid7/rex-exploitation
-    C:\Users\furry\Git> git clone https://github.com/rapid7/metasploit-framework/
+    git clone https://github.com/rapid7/rex-exploitation
+    git clone https://github.com/rapid7/metasploit-framework/
+
+https://github.com/topics/code-property-graph
