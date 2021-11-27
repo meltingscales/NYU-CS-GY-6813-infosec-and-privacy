@@ -42,3 +42,7 @@ https://github.com/topics/code-property-graph
 https://acmccs.github.io/papers/p347-shoshitaishviliA.pdf
 
 https://www.raytheon.com/sites/default/files/cyber/rtnwcm/groups/public/documents/content/cyber-reasoning-info-pdf.pdf
+
+https://shellphish.net/cgc/
+
+https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf
