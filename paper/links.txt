@@ -46,3 +46,8 @@ https://www.raytheon.com/sites/default/files/cyber/rtnwcm/groups/public/document
 https://shellphish.net/cgc/
 
 https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf
+
+https://www.kitploit.com/2021/05/autopentest-drl-automated-penetration.html
+https://github.com/crond-jaist/AutoPentest-DRL
+
+https://www.helpnetsecurity.com/2019/02/26/osspatcher-automated-patching-open-source-libraries/
